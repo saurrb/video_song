@@ -1,0 +1,47 @@
+{
+  "video": "C:\\Users\\Saurabh\\Documents\\video_song\\songs\\kya_banana_hai\\final_video\\kya_banana_hai_1080x1920.mp4",
+  "width": 1080,
+  "height": 1920,
+  "frame_rate": "30/1",
+  "decoded_frames": 817,
+  "audio_duration": "27.245000",
+  "video_duration": "27.233333",
+  "scenes": 6,
+  "timeline_shots": 6,
+  "lyric_phrases": 12,
+  "timed_words": 36,
+  "unexpected_black_frames": [],
+  "audio_alignment_checks": [
+    {
+      "time_seconds": 1,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9998560636954149
+    },
+    {
+      "time_seconds": 7,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9996829164981093
+    },
+    {
+      "time_seconds": 13,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9995792572380279
+    },
+    {
+      "time_seconds": 20,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9994552198001503
+    },
+    {
+      "time_seconds": 25,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9994353491842717
+    }
+  ],
+  "note": "Word timestamps are Whisper model estimates, aligned to supplied lyrics; they are not a human listening certification."
+}

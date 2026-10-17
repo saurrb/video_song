@@ -1,0 +1,290 @@
+[
+  {
+    "line": 0,
+    "text": "Sabse",
+    "spoken": "सबसे",
+    "start": 0.0,
+    "end": 0.78,
+    "probability": 0.6274
+  },
+  {
+    "line": 0,
+    "text": "mushkil",
+    "spoken": "मुश्किल",
+    "start": 0.78,
+    "end": 1.52,
+    "probability": 0.733
+  },
+  {
+    "line": 0,
+    "text": "to",
+    "spoken": "तो",
+    "start": 1.52,
+    "end": 2.22,
+    "probability": 0.8521
+  },
+  {
+    "line": 0,
+    "text": "yeh",
+    "spoken": "ये",
+    "start": 2.22,
+    "end": 2.66,
+    "probability": 0.8633
+  },
+  {
+    "line": 0,
+    "text": "batana",
+    "spoken": "बताना",
+    "start": 2.66,
+    "end": 3.7,
+    "probability": 0.9254
+  },
+  {
+    "line": 0,
+    "text": "hai",
+    "spoken": "है",
+    "start": 3.7,
+    "end": 4.04,
+    "probability": 0.9596
+  },
+  {
+    "line": 1,
+    "text": "Aaj",
+    "spoken": "आज",
+    "start": 4.04,
+    "end": 4.88,
+    "probability": 0.9006
+  },
+  {
+    "line": 1,
+    "text": "khane",
+    "spoken": "खाने",
+    "start": 4.88,
+    "end": 5.64,
+    "probability": 0.8309
+  },
+  {
+    "line": 1,
+    "text": "mein",
+    "spoken": "में",
+    "start": 5.64,
+    "end": 6.58,
+    "probability": 0.9154
+  },
+  {
+    "line": 1,
+    "text": "kya",
+    "spoken": "क्या",
+    "start": 6.58,
+    "end": 6.88,
+    "probability": 0.8283
+  },
+  {
+    "line": 1,
+    "text": "banana",
+    "spoken": "बनाना",
+    "start": 6.88,
+    "end": 7.78,
+    "probability": 0.9513
+  },
+  {
+    "line": 1,
+    "text": "hai",
+    "spoken": "है",
+    "start": 7.78,
+    "end": 8.12,
+    "probability": 0.9796
+  },
+  {
+    "line": 2,
+    "text": "Is",
+    "spoken": "इस",
+    "start": 8.1,
+    "end": 8.96,
+    "probability": 0.6225
+  },
+  {
+    "line": 2,
+    "text": "mushkil",
+    "spoken": "मुश्किल",
+    "start": 8.96,
+    "end": 9.84,
+    "probability": 0.5849
+  },
+  {
+    "line": 2,
+    "text": "mein",
+    "spoken": "में",
+    "start": 9.84,
+    "end": 10.68,
+    "probability": 0.8668
+  },
+  {
+    "line": 2,
+    "text": "yeh",
+    "spoken": "ये",
+    "start": 10.68,
+    "end": 10.86,
+    "probability": 0.8104
+  },
+  {
+    "line": 2,
+    "text": "zamana",
+    "spoken": "जमाना",
+    "start": 10.86,
+    "end": 11.98,
+    "probability": 0.792
+  },
+  {
+    "line": 2,
+    "text": "hai",
+    "spoken": "है",
+    "start": 11.98,
+    "end": 12.3,
+    "probability": 0.9446
+  },
+  {
+    "line": 3,
+    "text": "Aaj",
+    "spoken": "आज",
+    "start": 12.3,
+    "end": 13.04,
+    "probability": 0.8676
+  },
+  {
+    "line": 3,
+    "text": "khane",
+    "spoken": "खाने",
+    "start": 13.04,
+    "end": 13.88,
+    "probability": 0.5869
+  },
+  {
+    "line": 3,
+    "text": "mein",
+    "spoken": "में",
+    "start": 13.88,
+    "end": 14.82,
+    "probability": 0.9539
+  },
+  {
+    "line": 3,
+    "text": "kya",
+    "spoken": "क्या",
+    "start": 14.82,
+    "end": 15.1,
+    "probability": 0.735
+  },
+  {
+    "line": 3,
+    "text": "banana",
+    "spoken": "बनाना",
+    "start": 15.1,
+    "end": 16.04,
+    "probability": 0.9038
+  },
+  {
+    "line": 3,
+    "text": "hai",
+    "spoken": "है",
+    "start": 16.04,
+    "end": 16.4,
+    "probability": 0.9822
+  },
+  {
+    "line": 4,
+    "text": "Ham",
+    "spoken": "हम",
+    "start": 16.3,
+    "end": 17.18,
+    "probability": 0.4098
+  },
+  {
+    "line": 4,
+    "text": "sochte",
+    "spoken": "सोचते",
+    "start": 17.18,
+    "end": 18.5,
+    "probability": 0.6878
+  },
+  {
+    "line": 4,
+    "text": "kuch",
+    "spoken": "कुछ",
+    "start": 18.5,
+    "end": 19.36,
+    "probability": 0.6101
+  },
+  {
+    "line": 4,
+    "text": "aur",
+    "spoken": "और",
+    "start": 19.36,
+    "end": 20.58,
+    "probability": 0.3511
+  },
+  {
+    "line": 4,
+    "text": "hain",
+    "spoken": "हैं",
+    "start": 20.58,
+    "end": 21.28,
+    "probability": 0.5306
+  },
+  {
+    "line": 5,
+    "text": "Aur",
+    "spoken": "और",
+    "start": 21.28,
+    "end": 21.74,
+    "probability": 0.7799
+  },
+  {
+    "line": 5,
+    "text": "pakta",
+    "spoken": "पकता",
+    "start": 21.74,
+    "end": 23.02,
+    "probability": 0.6798
+  },
+  {
+    "line": 5,
+    "text": "ghar",
+    "spoken": "घर",
+    "start": 23.02,
+    "end": 23.42,
+    "probability": 0.4506
+  },
+  {
+    "line": 5,
+    "text": "me",
+    "spoken": "में",
+    "start": 23.42,
+    "end": 23.72,
+    "probability": 0.9062
+  },
+  {
+    "line": 5,
+    "text": "kuch",
+    "spoken": "कुछ",
+    "start": 23.72,
+    "end": 24.06,
+    "probability": 0.9035
+  },
+  {
+    "line": 5,
+    "text": "aur",
+    "spoken": "और",
+    "start": 24.06,
+    "end": 25.28,
+    "probability": 0.8275
+  },
+  {
+    "line": 5,
+    "text": "hai",
+    "spoken": "है",
+    "start": 25.28,
+    "end": 25.8,
+    "probability": 0.9732
+  }
+]

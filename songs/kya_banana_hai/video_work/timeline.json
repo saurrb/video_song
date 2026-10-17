@@ -1,0 +1,298 @@
+{
+  "title": "Aaj Khane Mein Kya Banana Hai",
+  "artist": "Hansi Ki Dhun",
+  "duration": 27.245675,
+  "scenes": [
+    {
+      "scene": 1,
+      "image": "01_dilemma.png",
+      "start": 0,
+      "end": 4.04
+    },
+    {
+      "scene": 2,
+      "image": "02_fridge.png",
+      "start": 4.04,
+      "end": 8.12
+    },
+    {
+      "scene": 3,
+      "image": "03_world_dilemma.png",
+      "start": 8.12,
+      "end": 12.3
+    },
+    {
+      "scene": 4,
+      "image": "04_cooking_choices.png",
+      "start": 12.3,
+      "end": 16.42
+    },
+    {
+      "scene": 5,
+      "image": "05_dream_feast.png",
+      "start": 16.42,
+      "end": 21.28
+    },
+    {
+      "scene": 6,
+      "image": "06_actual_dinner.png",
+      "start": 21.28,
+      "end": 27.245675
+    }
+  ],
+  "phrases": [
+    {
+      "start": 0.0,
+      "end": 2.22,
+      "words": [
+        {
+          "text": "Sabse",
+          "start": 0.0,
+          "end": 0.78
+        },
+        {
+          "text": "mushkil",
+          "start": 0.78,
+          "end": 1.52
+        },
+        {
+          "text": "to",
+          "start": 1.52,
+          "end": 2.22
+        }
+      ]
+    },
+    {
+      "start": 2.22,
+      "end": 4.04,
+      "words": [
+        {
+          "text": "yeh",
+          "start": 2.22,
+          "end": 2.66
+        },
+        {
+          "text": "batana",
+          "start": 2.66,
+          "end": 3.7
+        },
+        {
+          "text": "hai",
+          "start": 3.7,
+          "end": 4.04
+        }
+      ]
+    },
+    {
+      "start": 4.04,
+      "end": 6.58,
+      "words": [
+        {
+          "text": "Aaj",
+          "start": 4.04,
+          "end": 4.88
+        },
+        {
+          "text": "khane",
+          "start": 4.88,
+          "end": 5.64
+        },
+        {
+          "text": "mein",
+          "start": 5.64,
+          "end": 6.58
+        }
+      ]
+    },
+    {
+      "start": 6.58,
+      "end": 8.12,
+      "words": [
+        {
+          "text": "kya",
+          "start": 6.58,
+          "end": 6.88
+        },
+        {
+          "text": "banana",
+          "start": 6.88,
+          "end": 7.78
+        },
+        {
+          "text": "hai",
+          "start": 7.78,
+          "end": 8.12
+        }
+      ]
+    },
+    {
+      "start": 8.12,
+      "end": 10.68,
+      "words": [
+        {
+          "text": "Is",
+          "start": 8.12,
+          "end": 8.96
+        },
+        {
+          "text": "mushkil",
+          "start": 8.96,
+          "end": 9.84
+        },
+        {
+          "text": "mein",
+          "start": 9.84,
+          "end": 10.68
+        }
+      ]
+    },
+    {
+      "start": 10.68,
+      "end": 12.3,
+      "words": [
+        {
+          "text": "yeh",
+          "start": 10.68,
+          "end": 10.86
+        },
+        {
+          "text": "zamana",
+          "start": 10.86,
+          "end": 11.98
+        },
+        {
+          "text": "hai",
+          "start": 11.98,
+          "end": 12.3
+        }
+      ]
+    },
+    {
+      "start": 12.3,
+      "end": 14.82,
+      "words": [
+        {
+          "text": "Aaj",
+          "start": 12.3,
+          "end": 13.04
+        },
+        {
+          "text": "khane",
+          "start": 13.04,
+          "end": 13.88
+        },
+        {
+          "text": "mein",
+          "start": 13.88,
+          "end": 14.82
+        }
+      ]
+    },
+    {
+      "start": 14.82,
+      "end": 16.42,
+      "words": [
+        {
+          "text": "kya",
+          "start": 14.82,
+          "end": 15.1
+        },
+        {
+          "text": "banana",
+          "start": 15.1,
+          "end": 16.04
+        },
+        {
+          "text": "hai",
+          "start": 16.04,
+          "end": 16.4
+        }
+      ]
+    },
+    {
+      "start": 16.42,
+      "end": 19.36,
+      "words": [
+        {
+          "text": "Ham",
+          "start": 16.42,
+          "end": 17.18
+        },
+        {
+          "text": "sochte",
+          "start": 17.18,
+          "end": 18.5
+        },
+        {
+          "text": "kuch",
+          "start": 18.5,
+          "end": 19.36
+        }
+      ]
+    },
+    {
+      "start": 19.36,
+      "end": 21.28,
+      "words": [
+        {
+          "text": "aur",
+          "start": 19.36,
+          "end": 20.58
+        },
+        {
+          "text": "hain",
+          "start": 20.58,
+          "end": 21.28
+        }
+      ]
+    },
+    {
+      "start": 21.28,
+      "end": 23.72,
+      "words": [
+        {
+          "text": "Aur",
+          "start": 21.28,
+          "end": 21.74
+        },
+        {
+          "text": "pakta",
+          "start": 21.74,
+          "end": 23.02
+        },
+        {
+          "text": "ghar",
+          "start": 23.02,
+          "end": 23.42
+        },
+        {
+          "text": "me",
+          "start": 23.42,
+          "end": 23.72
+        }
+      ]
+    },
+    {
+      "start": 23.72,
+      "end": 25.92,
+      "words": [
+        {
+          "text": "kuch",
+          "start": 23.72,
+          "end": 24.06
+        },
+        {
+          "text": "aur",
+          "start": 24.06,
+          "end": 25.28
+        },
+        {
+          "text": "hai",
+          "start": 25.28,
+          "end": 25.8
+        }
+      ]
+    }
+  ],
+  "timing_note": "Fresh Whisper-small forced alignment with supplied lyrics. Repeated hook independently transcribed; overlapping line starts corrected. Word times remain model estimates."
+}

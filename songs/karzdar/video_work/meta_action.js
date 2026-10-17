@@ -1,0 +1,1 @@
+JSON.stringify({text:document.body.innerText.slice(-6500),url:location.href,links:[...document.querySelectorAll('a')].filter(e=>e.innerText.includes('Hansi')).map(e=>({text:e.innerText,url:e.href}))})
