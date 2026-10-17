@@ -1,0 +1,47 @@
+{
+  "video": "C:\\Users\\Saurabh\\Documents\\video_song\\songs\\na_tum_jano\\final_video\\na_tum_jano_1080x1920.mp4",
+  "width": 1080,
+  "height": 1920,
+  "frame_rate": "30/1",
+  "decoded_frames": 770,
+  "audio_duration": "25.652000",
+  "video_duration": "25.666667",
+  "scenes": 5,
+  "timeline_shots": 5,
+  "lyric_phrases": 9,
+  "timed_words": 23,
+  "unexpected_black_frames": [],
+  "audio_alignment_checks": [
+    {
+      "time_seconds": 1,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9997199518443016
+    },
+    {
+      "time_seconds": 7,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9997786609051603
+    },
+    {
+      "time_seconds": 12,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9997384049075182
+    },
+    {
+      "time_seconds": 18,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999307923749586
+    },
+    {
+      "time_seconds": 24,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999131969104735
+    }
+  ],
+  "note": "Word timestamps are Whisper model estimates, aligned to supplied lyrics; they are not a human listening certification."
+}

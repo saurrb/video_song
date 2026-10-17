@@ -1,0 +1,47 @@
+{
+  "video": "C:\\Users\\Saurabh\\Documents\\video_song\\songs\\nahana_chahiye\\final_video\\nahana_chahiye_1080x1920.mp4",
+  "width": 1080,
+  "height": 1920,
+  "frame_rate": "30/1",
+  "decoded_frames": 451,
+  "audio_duration": "15.046000",
+  "video_duration": "15.033333",
+  "scenes": 6,
+  "timeline_shots": 6,
+  "lyric_phrases": 5,
+  "timed_words": 22,
+  "unexpected_black_frames": [],
+  "audio_alignment_checks": [
+    {
+      "time_seconds": 1,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999926071347743
+    },
+    {
+      "time_seconds": 5,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999930410328067
+    },
+    {
+      "time_seconds": 9,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999835197212126
+    },
+    {
+      "time_seconds": 12,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999909325290135
+    },
+    {
+      "time_seconds": 14,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999887704734899
+    }
+  ],
+  "note": "Word timestamps are Whisper model estimates, aligned to supplied lyrics; they are not a human listening certification."
+}

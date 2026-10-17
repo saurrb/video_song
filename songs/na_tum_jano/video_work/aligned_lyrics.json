@@ -1,0 +1,186 @@
+[
+  {
+    "line": 0,
+    "text": "क्यों",
+    "spoken": "क्यों",
+    "start": 0.0,
+    "end": 1.04,
+    "probability": 0.5232
+  },
+  {
+    "line": 0,
+    "text": "तुझमें",
+    "spoken": "तुझमें",
+    "start": 1.04,
+    "end": 1.52,
+    "probability": 0.5453
+  },
+  {
+    "line": 0,
+    "text": "बुद्धि",
+    "spoken": "बुद्धि",
+    "start": 1.52,
+    "end": 2.08,
+    "probability": 0.6567
+  },
+  {
+    "line": 0,
+    "text": "है",
+    "spoken": "है",
+    "start": 2.08,
+    "end": 2.26,
+    "probability": 0.1655
+  },
+  {
+    "line": 0,
+    "text": "कम",
+    "spoken": "कम",
+    "start": 2.26,
+    "end": 2.62,
+    "probability": 0.5028
+  },
+  {
+    "line": 1,
+    "text": "क्यों",
+    "spoken": "क्यों",
+    "start": 5.0,
+    "end": 6.34,
+    "probability": 0.4402
+  },
+  {
+    "line": 1,
+    "text": "है",
+    "spoken": "है",
+    "start": 6.34,
+    "end": 6.54,
+    "probability": 0.8337
+  },
+  {
+    "line": 1,
+    "text": "तू",
+    "spoken": "तू",
+    "start": 6.54,
+    "end": 6.98,
+    "probability": 0.493
+  },
+  {
+    "line": 1,
+    "text": "एक",
+    "spoken": "एक",
+    "start": 6.98,
+    "end": 7.3,
+    "probability": 0.6375
+  },
+  {
+    "line": 1,
+    "text": "चमन",
+    "spoken": "चमन",
+    "start": 7.3,
+    "end": 7.92,
+    "probability": 0.4799
+  },
+  {
+    "line": 2,
+    "text": "इतना",
+    "spoken": "इतना",
+    "start": 10.0,
+    "end": 11.6,
+    "probability": 0.3027
+  },
+  {
+    "line": 2,
+    "text": "क्यों",
+    "spoken": "क्यों",
+    "start": 11.6,
+    "end": 12.24,
+    "probability": 0.451
+  },
+  {
+    "line": 2,
+    "text": "बेशर्म",
+    "spoken": "बेशर्म",
+    "start": 12.24,
+    "end": 12.98,
+    "probability": 0.3667
+  },
+  {
+    "line": 3,
+    "text": "ना",
+    "spoken": "ना",
+    "start": 15.0,
+    "end": 16.52,
+    "probability": 0.7536
+  },
+  {
+    "line": 3,
+    "text": "तुम",
+    "spoken": "तुम",
+    "start": 16.52,
+    "end": 16.96,
+    "probability": 0.6427
+  },
+  {
+    "line": 3,
+    "text": "जानो",
+    "spoken": "जानो",
+    "start": 16.96,
+    "end": 17.6,
+    "probability": 0.8116
+  },
+  {
+    "line": 3,
+    "text": "ना",
+    "spoken": "ना",
+    "start": 17.6,
+    "end": 17.84,
+    "probability": 0.8233
+  },
+  {
+    "line": 3,
+    "text": "हम।",
+    "spoken": "हम।",
+    "start": 17.84,
+    "end": 18.34,
+    "probability": 0.3228
+  },
+  {
+    "line": 4,
+    "text": "ना",
+    "spoken": "ना",
+    "start": 20.0,
+    "end": 21.64,
+    "probability": 0.4421
+  },
+  {
+    "line": 4,
+    "text": "तुम",
+    "spoken": "तुम",
+    "start": 21.64,
+    "end": 22.04,
+    "probability": 0.7444
+  },
+  {
+    "line": 4,
+    "text": "जानो",
+    "spoken": "जानो",
+    "start": 22.04,
+    "end": 22.7,
+    "probability": 0.7848
+  },
+  {
+    "line": 4,
+    "text": "ना",
+    "spoken": "ना",
+    "start": 22.7,
+    "end": 22.98,
+    "probability": 0.5451
+  },
+  {
+    "line": 4,
+    "text": "हम।",
+    "spoken": "हम।",
+    "start": 22.98,
+    "end": 24.52,
+    "probability": 0.3069
+  }
+]
