@@ -1,0 +1,47 @@
+{
+  "video": "C:\\Users\\Saurabh\\Documents\\video_song\\songs\\karzdar\\final_video\\karzdar_1080x1920.mp4",
+  "width": 1080,
+  "height": 1920,
+  "frame_rate": "30/1",
+  "decoded_frames": 1344,
+  "audio_duration": "44.800000",
+  "video_duration": "44.800000",
+  "scenes": 8,
+  "timeline_shots": 11,
+  "lyric_phrases": 21,
+  "timed_words": 63,
+  "unexpected_black_frames": [],
+  "audio_alignment_checks": [
+    {
+      "time_seconds": 1,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999494266028762
+    },
+    {
+      "time_seconds": 12,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999186671920394
+    },
+    {
+      "time_seconds": 24,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999250166093865
+    },
+    {
+      "time_seconds": 35,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999183561134394
+    },
+    {
+      "time_seconds": 42,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9998791082151339
+    }
+  ],
+  "note": "Word timestamps are Whisper model estimates, aligned to supplied lyrics; they are not a human listening certification."
+}
