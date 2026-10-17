@@ -1,0 +1,47 @@
+{
+  "video": "C:\\Users\\Saurabh\\Documents\\video_song\\songs\\palang_ke_andar_yoddha\\final_video\\palang_ke_andar_yoddha_1080x1920.mp4",
+  "width": 1080,
+  "height": 1920,
+  "frame_rate": "30/1",
+  "decoded_frames": 1159,
+  "audio_duration": "38.635000",
+  "video_duration": "38.633333",
+  "scenes": 16,
+  "timeline_shots": 16,
+  "lyric_phrases": 16,
+  "timed_words": 83,
+  "unexpected_black_frames": [],
+  "audio_alignment_checks": [
+    {
+      "time_seconds": 1,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999799795424454
+    },
+    {
+      "time_seconds": 10,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999378830658706
+    },
+    {
+      "time_seconds": 20,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999530575408114
+    },
+    {
+      "time_seconds": 30,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999358139068012
+    },
+    {
+      "time_seconds": 36,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999767929872009
+    }
+  ],
+  "note": "Word timestamps are Whisper model estimates, aligned to supplied lyrics; they are not a human listening certification."
+}
