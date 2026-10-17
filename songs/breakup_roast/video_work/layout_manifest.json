@@ -1,0 +1,517 @@
+{
+  "title": "याद आ जाए — Breakup Roast",
+  "artist": "",
+  "duration": 26.853875,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "alignment": "Whisper small Hindi canonical-word DTW with original wording preserved and independent final-phrase pause correction; word timing remains estimated",
+  "phrases": [
+    {
+      "line": 0,
+      "start": 0.0,
+      "end": 1.56,
+      "words": [
+        {
+          "line": 0,
+          "text": "याद",
+          "spoken": "याद",
+          "start": 0.0,
+          "end": 0.54,
+          "probability": 0.6684
+        },
+        {
+          "line": 0,
+          "text": "आ",
+          "spoken": "आ",
+          "start": 0.54,
+          "end": 0.72,
+          "probability": 0.2332
+        },
+        {
+          "line": 0,
+          "text": "जाए",
+          "spoken": "जाए",
+          "start": 0.72,
+          "end": 1.24,
+          "probability": 0.8066
+        },
+        {
+          "line": 0,
+          "text": "तो",
+          "spoken": "तो",
+          "start": 1.24,
+          "end": 1.56,
+          "probability": 0.7286
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "याद",
+          "आ",
+          "जाए",
+          "तो"
+        ]
+      ]
+    },
+    {
+      "line": 1,
+      "start": 1.56,
+      "end": 3.48,
+      "words": [
+        {
+          "line": 0,
+          "text": "तेरा",
+          "spoken": "तेरा",
+          "start": 1.56,
+          "end": 2.14,
+          "probability": 0.8281
+        },
+        {
+          "line": 0,
+          "text": "नाम",
+          "spoken": "नाम",
+          "start": 2.14,
+          "end": 2.78,
+          "probability": 0.7632
+        },
+        {
+          "line": 0,
+          "text": "लेकर",
+          "spoken": "लेकर",
+          "start": 2.78,
+          "end": 3.48,
+          "probability": 0.6529
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "तेरा",
+          "नाम",
+          "लेकर"
+        ]
+      ]
+    },
+    {
+      "line": 2,
+      "start": 3.48,
+      "end": 5.1,
+      "words": [
+        {
+          "line": 0,
+          "text": "थूक",
+          "spoken": "थूक",
+          "start": 3.48,
+          "end": 4.02,
+          "probability": 0.6324
+        },
+        {
+          "line": 0,
+          "text": "दूं।",
+          "spoken": "दूं।",
+          "start": 4.02,
+          "end": 5.1,
+          "probability": 0.6752
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "थूक",
+          "दूं।"
+        ]
+      ]
+    },
+    {
+      "line": 3,
+      "start": 5.1,
+      "end": 7.02,
+      "words": [
+        {
+          "line": 1,
+          "text": "कभी",
+          "spoken": "कभी",
+          "start": 5.1,
+          "end": 5.9,
+          "probability": 0.7817
+        },
+        {
+          "line": 1,
+          "text": "मिल",
+          "spoken": "मिल",
+          "start": 5.9,
+          "end": 6.18,
+          "probability": 0.742
+        },
+        {
+          "line": 1,
+          "text": "जाए",
+          "spoken": "जाए",
+          "start": 6.18,
+          "end": 6.7,
+          "probability": 0.8974
+        },
+        {
+          "line": 1,
+          "text": "तो",
+          "spoken": "तो",
+          "start": 6.7,
+          "end": 7.02,
+          "probability": 0.956
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "कभी",
+          "मिल",
+          "जाए",
+          "तो"
+        ]
+      ]
+    },
+    {
+      "line": 4,
+      "start": 7.02,
+      "end": 8.7,
+      "words": [
+        {
+          "line": 1,
+          "text": "रस्ते",
+          "spoken": "रस्ते",
+          "start": 7.02,
+          "end": 7.58,
+          "probability": 0.8506
+        },
+        {
+          "line": 1,
+          "text": "पर",
+          "spoken": "पर",
+          "start": 7.58,
+          "end": 8.06,
+          "probability": 0.6131
+        },
+        {
+          "line": 1,
+          "text": "रख",
+          "spoken": "रख",
+          "start": 8.06,
+          "end": 8.24,
+          "probability": 0.3828
+        },
+        {
+          "line": 1,
+          "text": "के",
+          "spoken": "के",
+          "start": 8.24,
+          "end": 8.7,
+          "probability": 0.5121
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "रस्ते",
+          "पर",
+          "रख",
+          "के"
+        ]
+      ]
+    },
+    {
+      "line": 5,
+      "start": 8.7,
+      "end": 11.08,
+      "words": [
+        {
+          "line": 1,
+          "text": "ही",
+          "spoken": "ही",
+          "start": 8.7,
+          "end": 8.98,
+          "probability": 0.7094
+        },
+        {
+          "line": 1,
+          "text": "सूत",
+          "spoken": "सूत",
+          "start": 8.98,
+          "end": 9.44,
+          "probability": 0.6477
+        },
+        {
+          "line": 1,
+          "text": "दूं।",
+          "spoken": "दूं।",
+          "start": 9.44,
+          "end": 11.08,
+          "probability": 0.8517
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "ही",
+          "सूत",
+          "दूं।"
+        ]
+      ]
+    },
+    {
+      "line": 6,
+      "start": 11.08,
+      "end": 13.82,
+      "words": [
+        {
+          "line": 2,
+          "text": "तेरे",
+          "spoken": "तेरे",
+          "start": 11.08,
+          "end": 11.9,
+          "probability": 0.7771
+        },
+        {
+          "line": 2,
+          "text": "लात",
+          "spoken": "लात",
+          "start": 11.9,
+          "end": 12.56,
+          "probability": 0.8331
+        },
+        {
+          "line": 2,
+          "text": "मुंह",
+          "spoken": "मुंह",
+          "start": 12.56,
+          "end": 12.98,
+          "probability": 0.489
+        },
+        {
+          "line": 2,
+          "text": "देना",
+          "spoken": "देना",
+          "start": 12.98,
+          "end": 13.82,
+          "probability": 0.5766
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "तेरे",
+          "लात",
+          "मुंह",
+          "देना"
+        ]
+      ]
+    },
+    {
+      "line": 7,
+      "start": 13.82,
+      "end": 16.56,
+      "words": [
+        {
+          "line": 2,
+          "text": "बस",
+          "spoken": "बस",
+          "start": 13.82,
+          "end": 14.08,
+          "probability": 0.7819
+        },
+        {
+          "line": 2,
+          "text": "यही",
+          "spoken": "यही",
+          "start": 14.08,
+          "end": 15.18,
+          "probability": 0.2199
+        },
+        {
+          "line": 2,
+          "text": "है",
+          "spoken": "है",
+          "start": 15.18,
+          "end": 15.42,
+          "probability": 0.1388
+        },
+        {
+          "line": 2,
+          "text": "सपना।",
+          "spoken": "सपना।",
+          "start": 15.42,
+          "end": 16.56,
+          "probability": 0.3369
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "बस",
+          "यही",
+          "है",
+          "सपना।"
+        ]
+      ]
+    },
+    {
+      "line": 8,
+      "start": 16.56,
+      "end": 19.080000000000002,
+      "words": [
+        {
+          "line": 3,
+          "text": "जो",
+          "spoken": "जो",
+          "start": 16.56,
+          "end": 16.84,
+          "probability": 0.8988
+        },
+        {
+          "line": 3,
+          "text": "भी",
+          "spoken": "भी",
+          "start": 16.84,
+          "end": 17.14,
+          "probability": 0.877
+        },
+        {
+          "line": 3,
+          "text": "world",
+          "spoken": "वर्ल्ड",
+          "start": 17.14,
+          "end": 17.84,
+          "probability": 0.5188
+        },
+        {
+          "line": 3,
+          "text": "में",
+          "spoken": "में",
+          "start": 17.84,
+          "end": 18.96,
+          "probability": 0.8733
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "जो",
+          "भी",
+          "world",
+          "में"
+        ]
+      ]
+    },
+    {
+      "line": 9,
+      "start": 20.82,
+      "end": 23.14,
+      "words": [
+        {
+          "line": 3,
+          "text": "गालियां",
+          "spoken": "गालियां",
+          "start": 20.82,
+          "end": 21.86,
+          "probability": 0.6953
+        },
+        {
+          "line": 3,
+          "text": "दूं",
+          "spoken": "दूं",
+          "start": 21.86,
+          "end": 23.14,
+          "probability": 0.6203
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "गालियां",
+          "दूं"
+        ]
+      ]
+    },
+    {
+      "line": 10,
+      "start": 23.14,
+      "end": 26.853875,
+      "words": [
+        {
+          "line": 3,
+          "text": "तुझे",
+          "spoken": "तुझे",
+          "start": 23.14,
+          "end": 23.7,
+          "probability": 0.721
+        },
+        {
+          "line": 3,
+          "text": "सारियां।",
+          "spoken": "सारियां।",
+          "start": 23.7,
+          "end": 26.84,
+          "probability": 0.7808
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "तुझे",
+          "सारियां।"
+        ]
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "scene": 1,
+      "image": "01_memory_rage.png",
+      "start": 0,
+      "end": 3.48
+    },
+    {
+      "scene": 2,
+      "image": "02_spit_take.png",
+      "start": 3.48,
+      "end": 5.1
+    },
+    {
+      "scene": 3,
+      "image": "03_street_meeting.png",
+      "start": 5.1,
+      "end": 8.06
+    },
+    {
+      "scene": 4,
+      "image": "04_cartoon_tussle.png",
+      "start": 8.06,
+      "end": 11.08
+    },
+    {
+      "scene": 5,
+      "image": "05_dream_karate.png",
+      "start": 11.08,
+      "end": 13.82
+    },
+    {
+      "scene": 6,
+      "image": "06_silly_dream.png",
+      "start": 13.82,
+      "end": 16.56
+    },
+    {
+      "scene": 7,
+      "image": "07_world_of_roasts.png",
+      "start": 16.56,
+      "end": 23.14
+    },
+    {
+      "scene": 8,
+      "image": "08_all_for_you.png",
+      "start": 23.14,
+      "end": 26.853875
+    }
+  ]
+}

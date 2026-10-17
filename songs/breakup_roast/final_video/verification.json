@@ -1,0 +1,47 @@
+{
+  "video": "C:\\Users\\Saurabh\\Documents\\video_song\\songs\\breakup_roast\\final_video\\breakup_roast_1080x1920.mp4",
+  "width": 1080,
+  "height": 1920,
+  "frame_rate": "30/1",
+  "decoded_frames": 806,
+  "audio_duration": "26.854000",
+  "video_duration": "26.866667",
+  "scenes": 8,
+  "timeline_shots": 8,
+  "lyric_phrases": 11,
+  "timed_words": 36,
+  "unexpected_black_frames": [],
+  "audio_alignment_checks": [
+    {
+      "time_seconds": 1,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999973136909228
+    },
+    {
+      "time_seconds": 6,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999977848732506
+    },
+    {
+      "time_seconds": 12,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.999997786195172
+    },
+    {
+      "time_seconds": 18,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.999994568733752
+    },
+    {
+      "time_seconds": 25,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999837175594748
+    }
+  ],
+  "note": "Word timestamps are Whisper model estimates, aligned to supplied lyrics; they are not a human listening certification."
+}

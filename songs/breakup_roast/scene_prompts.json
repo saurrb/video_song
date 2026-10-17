@@ -1,0 +1,81 @@
+[
+  {
+    "scene": 1,
+    "file": "01_memory_rage.png",
+    "prompt": "Use case: illustration-story. One polished full-frame 9:16 portrait cartoon illustration for a Hindi comedy song reel. Reference establishes the recurring chibi couple: GIRL long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, blush cheeks; BOY tousled brown hair, round glasses, navy hoodie, beige trousers. Huge cute heads, tiny bodies, expressive simple faces, warm brown outlines, flat 2D pastel shading. Girl is the comically angry main character, boy her fictional ex. Keep exact identities and clothes, no realistic violence. Important faces/actions above lower quarter, lower quarter uncluttered for lyric overlay later. No captions, letters, logos, watermark or collage. Scene: Girl sitting on peach sofa in cozy pastel living room, remembering her ex in a small round thought bubble above her. In bubble boy grins awkwardly. Girl has adorably angry puffed cheeks, furrowed brows, crossed arms, tiny comic steam puffs by ears. Heart-shaped cushion beside her is upside down. Funny theatrical breakup annoyance.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png"
+    ]
+  },
+  {
+    "scene": 2,
+    "file": "02_spit_take.png",
+    "prompt": "Use case: illustration-story. One polished full-frame 9:16 portrait cartoon illustration for a Hindi comedy song reel. Reference establishes the recurring chibi couple: GIRL long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, blush cheeks; BOY tousled brown hair, round glasses, navy hoodie, beige trousers. Huge cute heads, tiny bodies, expressive simple faces, warm brown outlines, flat 2D pastel shading. Girl is the comically angry main character, boy her fictional ex. Keep exact identities and clothes, no realistic violence. Important faces/actions above lower quarter, lower quarter uncluttered for lyric overlay later. No captions, letters, logos, watermark or collage. Scene: Girl stands beside her peach sofa making an exaggerated contemptuous spit-take to the side into a small wastebasket, just two tiny clean blue cartoon droplets and a comic puff, no gross detail. Her face extremely cute and disgusted, scrunched nose; tiny memory bubble with ex's glasses fades away. Side view, clear wastebasket, cozy pastel room. Second reference locks character rendering and peach living-room design; use the scene-specific location described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_memory_rage.png"
+    ]
+  },
+  {
+    "scene": 3,
+    "file": "03_street_meeting.png",
+    "prompt": "Use case: illustration-story. One polished full-frame 9:16 portrait cartoon illustration for a Hindi comedy song reel. Reference establishes the recurring chibi couple: GIRL long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, blush cheeks; BOY tousled brown hair, round glasses, navy hoodie, beige trousers. Huge cute heads, tiny bodies, expressive simple faces, warm brown outlines, flat 2D pastel shading. Girl is the comically angry main character, boy her fictional ex. Keep exact identities and clothes, no realistic violence. Important faces/actions above lower quarter, lower quarter uncluttered for lyric overlay later. No captions, letters, logos, watermark or collage. Scene: Girl and boy unexpectedly meet on a sunny quiet pastel neighborhood pavement. Girl stands hands on hips with fiercely cute raised eyebrow. Boy freezes mid-step with big round glasses and one giant cartoon sweat drop, holding up nervous palms. Mint shopfront, peach houses, potted plants; no cars. Second reference locks character rendering and peach living-room design; use the scene-specific location described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_memory_rage.png"
+    ]
+  },
+  {
+    "scene": 4,
+    "file": "04_cartoon_tussle.png",
+    "prompt": "Use case: illustration-story. One polished full-frame 9:16 portrait cartoon illustration for a Hindi comedy song reel. Reference establishes the recurring chibi couple: GIRL long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, blush cheeks; BOY tousled brown hair, round glasses, navy hoodie, beige trousers. Huge cute heads, tiny bodies, expressive simple faces, warm brown outlines, flat 2D pastel shading. Girl is the comically angry main character, boy her fictional ex. Keep exact identities and clothes, no realistic violence. Important faces/actions above lower quarter, lower quarter uncluttered for lyric overlay later. No captions, letters, logos, watermark or collage. Scene: Same sunny pastel neighborhood pavement. Classic silly cartoon scuffle represented entirely by one fluffy white dust cloud with only the girl's peach bow, boy's round glasses, two tiny mitten-like hands and shoe tips peeking out. Golden comic stars swirl above; harmless slapstick with no injuries, blood, bruises or weapons. Exaggerated motion curves; clean readable single composition. Second reference locks character rendering and peach living-room design; use the scene-specific location described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_memory_rage.png"
+    ]
+  },
+  {
+    "scene": 5,
+    "file": "05_dream_karate.png",
+    "prompt": "Use case: illustration-story. One polished full-frame 9:16 portrait cartoon illustration for a Hindi comedy song reel. Reference establishes the recurring chibi couple: GIRL long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, blush cheeks; BOY tousled brown hair, round glasses, navy hoodie, beige trousers. Huge cute heads, tiny bodies, expressive simple faces, warm brown outlines, flat 2D pastel shading. Girl is the comically angry main character, boy her fictional ex. Keep exact identities and clothes, no realistic violence. Important faces/actions above lower quarter, lower quarter uncluttered for lyric overlay later. No captions, letters, logos, watermark or collage. Scene: Clearly whimsical dream fantasy among lavender clouds: girl performs a dramatic tiny karate kick toward a SOFT navy training pillow balanced on a stand, pillow has a silly drawing of boy's round glasses and smile. Pillow compresses like a marshmallow, little gold stars pop around it. No real person being struck, adorable determined expression, full body clear above lower quarter. Second reference locks character rendering and peach living-room design; use the scene-specific location described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_memory_rage.png"
+    ]
+  },
+  {
+    "scene": 6,
+    "file": "06_silly_dream.png",
+    "prompt": "Use case: illustration-story. One polished full-frame 9:16 portrait cartoon illustration for a Hindi comedy song reel. Reference establishes the recurring chibi couple: GIRL long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, blush cheeks; BOY tousled brown hair, round glasses, navy hoodie, beige trousers. Huge cute heads, tiny bodies, expressive simple faces, warm brown outlines, flat 2D pastel shading. Girl is the comically angry main character, boy her fictional ex. Keep exact identities and clothes, no realistic violence. Important faces/actions above lower quarter, lower quarter uncluttered for lyric overlay later. No captions, letters, logos, watermark or collage. Scene: Girl asleep in mint armchair in peach living room, hugging a lavender pillow with a smug satisfied smile and peach bow still in hair. Small cloud-shaped dream bubble above her shows herself striking a proud karate victory pose with a tiny golden trophy. Peaceful cozy background, silly contrast between angry song and cute sleeping face. Second reference locks character rendering and peach living-room design; use the scene-specific location described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_memory_rage.png"
+    ]
+  },
+  {
+    "scene": 7,
+    "file": "07_world_of_roasts.png",
+    "prompt": "Use case: illustration-story. One polished full-frame 9:16 portrait cartoon illustration for a Hindi comedy song reel. Reference establishes the recurring chibi couple: GIRL long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, blush cheeks; BOY tousled brown hair, round glasses, navy hoodie, beige trousers. Huge cute heads, tiny bodies, expressive simple faces, warm brown outlines, flat 2D pastel shading. Girl is the comically angry main character, boy her fictional ex. Keep exact identities and clothes, no realistic violence. Important faces/actions above lower quarter, lower quarter uncluttered for lyric overlay later. No captions, letters, logos, watermark or collage. Scene: Girl standing like a theatrical stand-up comic beside a large cute blue-green globe on a stand, waving one hand and ranting into a tiny peach megaphone. Around globe float colorful speech bubbles containing ONLY simple spirals, lightning icons, stars, abstract frustration doodles, no actual words. Playful grand worldwide roast, cheeky expression, pastel lavender studio backdrop. Second reference locks character rendering and peach living-room design; use the scene-specific location described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_memory_rage.png"
+    ]
+  },
+  {
+    "scene": 8,
+    "file": "08_all_for_you.png",
+    "prompt": "Use case: illustration-story. One polished full-frame 9:16 portrait cartoon illustration for a Hindi comedy song reel. Reference establishes the recurring chibi couple: GIRL long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, blush cheeks; BOY tousled brown hair, round glasses, navy hoodie, beige trousers. Huge cute heads, tiny bodies, expressive simple faces, warm brown outlines, flat 2D pastel shading. Girl is the comically angry main character, boy her fictional ex. Keep exact identities and clothes, no realistic violence. Important faces/actions above lower quarter, lower quarter uncluttered for lyric overlay later. No captions, letters, logos, watermark or collage. Scene: Final comedic punchline: girl with peach megaphone confidently directs a storm of pastel speech bubbles with only stars, spirals and lightning doodles toward boy. Boy stands harmlessly overwhelmed behind a huge soft heart-shaped cushion used as a shield, glasses askew, sheepish embarrassed grin, tiny sweat drop. No contact violence. Same peach living room, girl triumphant with one hand on hip. Clear expressive two-character composition. Second reference locks character rendering and peach living-room design; use the scene-specific location described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_memory_rage.png"
+    ]
+  }
+]
