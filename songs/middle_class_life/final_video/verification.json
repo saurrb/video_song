@@ -1,0 +1,47 @@
+{
+  "video": "C:\\Users\\Saurabh\\Documents\\video_song\\songs\\middle_class_life\\final_video\\middle_class_life_1080x1920.mp4",
+  "width": 1080,
+  "height": 1920,
+  "frame_rate": "30/1",
+  "decoded_frames": 701,
+  "audio_duration": "23.353000",
+  "video_duration": "23.366667",
+  "scenes": 8,
+  "timeline_shots": 8,
+  "lyric_phrases": 12,
+  "timed_words": 44,
+  "unexpected_black_frames": [],
+  "audio_alignment_checks": [
+    {
+      "time_seconds": 1,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999493098488375
+    },
+    {
+      "time_seconds": 5,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9998874231643903
+    },
+    {
+      "time_seconds": 10,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999362386186738
+    },
+    {
+      "time_seconds": 16,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9998562309248147
+    },
+    {
+      "time_seconds": 21,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9998729290297242
+    }
+  ],
+  "note": "Word timestamps are Whisper model estimates, aligned to supplied lyrics; they are not a human listening certification."
+}

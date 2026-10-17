@@ -1,0 +1,121 @@
+[
+  {
+    "scene": 1,
+    "file": "01_sweet_tooth.png",
+    "prompt": "Use case: illustration-story. Generate one standalone full-frame vertical 9:16 illustration for a cute Hindi comedy music reel. Reference image controls the GIRL only: long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, simple oval eyes, blush cheeks, oversized head and tiny rounded body. Keep same proportions throughout. Warm brown outlines, polished soft flat 2D pastel cartoon, peach/lilac/mint palette, expressive adorable comedy. Main face and story objects in upper 72 percent, lower quarter uncluttered for later lyric overlay. No letters, captions, logos, collage, watermark. Scene: Girl in cozy peach kitchen happily gazing at a strawberry cupcake held in one hand, plate with a donut and Indian laddoo on counter. Sparkling excited eyes, little heart shapes. Mouth watering adorably.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png"
+    ]
+  },
+  {
+    "scene": 2,
+    "file": "02_fitness_plans.png",
+    "prompt": "Use case: illustration-story. Generate one standalone full-frame vertical 9:16 illustration for a cute Hindi comedy music reel. Reference image controls the GIRL only: long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, simple oval eyes, blush cheeks, oversized head and tiny rounded body. Keep same proportions throughout. Warm brown outlines, polished soft flat 2D pastel cartoon, peach/lilac/mint palette, expressive adorable comedy. Main face and story objects in upper 72 percent, lower quarter uncluttered for later lyric overlay. No letters, captions, logos, collage, watermark. Scene: Girl on mint exercise mat in same peach home, enthusiastically lifting two tiny lilac dumbbells, determined funny expression. Pair of trainers and water bottle nearby. Same body and clothing as reference. Second reference locks the girl's face, clothing, palette and rendering style across scenes; change the setting as described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_sweet_tooth.png"
+    ]
+  },
+  {
+    "scene": 3,
+    "file": "03_puzzle.png",
+    "prompt": "Use case: illustration-story. Generate one standalone full-frame vertical 9:16 illustration for a cute Hindi comedy music reel. Reference image controls the GIRL only: long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, simple oval eyes, blush cheeks, oversized head and tiny rounded body. Keep same proportions throughout. Warm brown outlines, polished soft flat 2D pastel cartoon, peach/lilac/mint palette, expressive adorable comedy. Main face and story objects in upper 72 percent, lower quarter uncluttered for later lyric overlay. No letters, captions, logos, collage, watermark. Scene: Girl sitting on peach sofa with a cupcake in one hand and small dumbbell in other, staring back and forth with a comically confused expression. Floating pastel jigsaw puzzle pieces circle her head, one with simple cake icon, one with shoe icon. One scene, no split screen. Second reference locks the girl's face, clothing, palette and rendering style across scenes; change the setting as described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_sweet_tooth.png"
+    ]
+  },
+  {
+    "scene": 4,
+    "file": "04_weekend_party.png",
+    "prompt": "Use case: illustration-story. Generate one standalone full-frame vertical 9:16 illustration for a cute Hindi comedy music reel. Reference image controls the GIRL only: long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, simple oval eyes, blush cheeks, oversized head and tiny rounded body. Keep same proportions throughout. Warm brown outlines, polished soft flat 2D pastel cartoon, peach/lilac/mint palette, expressive adorable comedy. Main face and story objects in upper 72 percent, lower quarter uncluttered for later lyric overlay. No letters, captions, logos, collage, watermark. Scene: Girl joyfully dancing at a colorful weekend house party under a disco ball, confetti and balloons, cozy purple and peach lights. A cup of orange juice on table. Dynamic hands and feet, swaying hair. Girl remains sole person. Second reference locks the girl's face, clothing, palette and rendering style across scenes; change the setting as described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_sweet_tooth.png"
+    ]
+  },
+  {
+    "scene": 5,
+    "file": "05_when_sleep.png",
+    "prompt": "Use case: illustration-story. Generate one standalone full-frame vertical 9:16 illustration for a cute Hindi comedy music reel. Reference image controls the GIRL only: long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, simple oval eyes, blush cheeks, oversized head and tiny rounded body. Keep same proportions throughout. Warm brown outlines, polished soft flat 2D pastel cartoon, peach/lilac/mint palette, expressive adorable comedy. Main face and story objects in upper 72 percent, lower quarter uncluttered for later lyric overlay. No letters, captions, logos, collage, watermark. Scene: After-party girl yawning hugely while sitting on her mint bed in peach bedroom, tangled party streamer draped over shoulder, peach alarm clock and late moon through blue curtains, lavender pillow. Her bow slightly crooked, funny exhausted eyes. Second reference locks the girl's face, clothing, palette and rendering style across scenes; change the setting as described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_sweet_tooth.png"
+    ]
+  },
+  {
+    "scene": 6,
+    "file": "06_hard_work.png",
+    "prompt": "Use case: illustration-story. Generate one standalone full-frame vertical 9:16 illustration for a cute Hindi comedy music reel. Reference image controls the GIRL only: long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, simple oval eyes, blush cheeks, oversized head and tiny rounded body. Keep same proportions throughout. Warm brown outlines, polished soft flat 2D pastel cartoon, peach/lilac/mint palette, expressive adorable comedy. Main face and story objects in upper 72 percent, lower quarter uncluttered for later lyric overlay. No letters, captions, logos, collage, watermark. Scene: Girl working with focus at wooden study desk, writing in blank notebook beside mint laptop, tiny completed checkmarks as graphic icons and a small gold star reward above her. Peach home office. Proud determined smile, effort leads to achievement. Second reference locks the girl's face, clothing, palette and rendering style across scenes; change the setting as described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_sweet_tooth.png"
+    ]
+  },
+  {
+    "scene": 7,
+    "file": "07_labubu.png",
+    "prompt": "Use case: illustration-story. Generate one standalone full-frame vertical 9:16 illustration for a cute Hindi comedy music reel. Reference image controls the GIRL only: long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, simple oval eyes, blush cheeks, oversized head and tiny rounded body. Keep same proportions throughout. Warm brown outlines, polished soft flat 2D pastel cartoon, peach/lilac/mint palette, expressive adorable comedy. Main face and story objects in upper 72 percent, lower quarter uncluttered for later lyric overlay. No letters, captions, logos, collage, watermark. Scene: Girl at same desk pauses to hold up a small recognizable tan Labubu plush charm: long upright rabbit-like ears, wide mischievous toothy grin, furry little monster body. She looks skeptically between charm and unfinished blank notebook, shrugging as toy cannot do her work. Cute toy prop not another human. Second reference locks the girl's face, clothing, palette and rendering style across scenes; change the setting as described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_sweet_tooth.png"
+    ]
+  },
+  {
+    "scene": 8,
+    "file": "08_leaving_home.png",
+    "prompt": "Use case: illustration-story. Generate one standalone full-frame vertical 9:16 illustration for a cute Hindi comedy music reel. Reference image controls the GIRL only: long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, simple oval eyes, blush cheeks, oversized head and tiny rounded body. Keep same proportions throughout. Warm brown outlines, polished soft flat 2D pastel cartoon, peach/lilac/mint palette, expressive adorable comedy. Main face and story objects in upper 72 percent, lower quarter uncluttered for later lyric overlay. No letters, captions, logos, collage, watermark. Scene: Girl at open front door of peach home, confidently raising one hand in a promise and carrying a mint lunchbox in the other. Ready to go out, small peach crossbody bag, sunny street beyond. Playfully overconfident expression. Second reference locks the girl's face, clothing, palette and rendering style across scenes; change the setting as described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_sweet_tooth.png"
+    ]
+  },
+  {
+    "scene": 9,
+    "file": "09_food_temptation.png",
+    "prompt": "Use case: illustration-story. Generate one standalone full-frame vertical 9:16 illustration for a cute Hindi comedy music reel. Reference image controls the GIRL only: long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, simple oval eyes, blush cheeks, oversized head and tiny rounded body. Keep same proportions throughout. Warm brown outlines, polished soft flat 2D pastel cartoon, peach/lilac/mint palette, expressive adorable comedy. Main face and story objects in upper 72 percent, lower quarter uncluttered for later lyric overlay. No letters, captions, logos, collage, watermark. Scene: Girl stops outside a pastel cafe with a large delicious burger displayed behind the window, no written signage. She clutches closed mint lunchbox but leans toward burger with sparkling fascinated eyes. Same small peach crossbody bag. Second reference locks the girl's face, clothing, palette and rendering style across scenes; change the setting as described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_sweet_tooth.png"
+    ]
+  },
+  {
+    "scene": 10,
+    "file": "10_caught_eating.png",
+    "prompt": "Use case: illustration-story. Generate one standalone full-frame vertical 9:16 illustration for a cute Hindi comedy music reel. Reference image controls the GIRL only: long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, simple oval eyes, blush cheeks, oversized head and tiny rounded body. Keep same proportions throughout. Warm brown outlines, polished soft flat 2D pastel cartoon, peach/lilac/mint palette, expressive adorable comedy. Main face and story objects in upper 72 percent, lower quarter uncluttered for later lyric overlay. No letters, captions, logos, collage, watermark. Scene: Girl seated at cafe table with burger tray and fries, hiding the closed mint lunchbox behind her bag. She glances sideways with adorably guilty caught-in-the-act eyes, a tiny sauce smudge on cheek, one hand holding half-eaten burger. Second reference locks the girl's face, clothing, palette and rendering style across scenes; change the setting as described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_sweet_tooth.png"
+    ]
+  },
+  {
+    "scene": 11,
+    "file": "11_burger_bite.png",
+    "prompt": "Use case: illustration-story. Generate one standalone full-frame vertical 9:16 illustration for a cute Hindi comedy music reel. Reference image controls the GIRL only: long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, simple oval eyes, blush cheeks, oversized head and tiny rounded body. Keep same proportions throughout. Warm brown outlines, polished soft flat 2D pastel cartoon, peach/lilac/mint palette, expressive adorable comedy. Main face and story objects in upper 72 percent, lower quarter uncluttered for later lyric overlay. No letters, captions, logos, collage, watermark. Scene: Closer comedic cafe view: girl happily taking a big bite of a juicy burger held naturally in both hands, rosy puffed cheeks, eyes squeezed in delight. Fries on table and mint lunchbox still closed. Warm sunny pastel cafe. Second reference locks the girl's face, clothing, palette and rendering style across scenes; change the setting as described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_sweet_tooth.png"
+    ]
+  },
+  {
+    "scene": 12,
+    "file": "12_scale_surprise.png",
+    "prompt": "Use case: illustration-story. Generate one standalone full-frame vertical 9:16 illustration for a cute Hindi comedy music reel. Reference image controls the GIRL only: long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, simple oval eyes, blush cheeks, oversized head and tiny rounded body. Keep same proportions throughout. Warm brown outlines, polished soft flat 2D pastel cartoon, peach/lilac/mint palette, expressive adorable comedy. Main face and story objects in upper 72 percent, lower quarter uncluttered for later lyric overlay. No letters, captions, logos, collage, watermark. Scene: Back in peach bedroom, girl stands on small mint bathroom scale placed on a low raised rug area, looking down with exaggerated puzzled surprise and palms up. A small thought bubble shows the burger she just ate. Same unchanged body proportions and clothes, playful contradiction rather than a body transformation. Scale has simple dial without readable numbers. Second reference locks the girl's face, clothing, palette and rendering style across scenes; change the setting as described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_sweet_tooth.png"
+    ]
+  }
+]

@@ -1,0 +1,816 @@
+{
+  "title": "मीठा भी खाना है",
+  "artist": "",
+  "duration": 27.062875,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "alignment": "Whisper small canonical Hindi-word DTW; Hindi phonetic substitutions for displayed English words; independent transcription pause corrections",
+  "phrases": [
+    {
+      "line": 0,
+      "start": 0.0,
+      "end": 1.12,
+      "words": [
+        {
+          "line": 0,
+          "text": "मीठा",
+          "spoken": "मीठा",
+          "start": 0.0,
+          "end": 0.3,
+          "probability": 0.2021
+        },
+        {
+          "line": 0,
+          "text": "भी",
+          "spoken": "भी",
+          "start": 0.3,
+          "end": 0.46,
+          "probability": 0.7262
+        },
+        {
+          "line": 0,
+          "text": "खाना",
+          "spoken": "खाना",
+          "start": 0.46,
+          "end": 0.88,
+          "probability": 0.8436
+        },
+        {
+          "line": 0,
+          "text": "है",
+          "spoken": "है",
+          "start": 0.88,
+          "end": 1.02,
+          "probability": 0.839
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "मीठा",
+          "भी",
+          "खाना",
+          "है"
+        ]
+      ]
+    },
+    {
+      "line": 1,
+      "start": 1.12,
+      "end": 2.2600000000000002,
+      "words": [
+        {
+          "line": 1,
+          "text": "पतला",
+          "spoken": "पतला",
+          "start": 1.12,
+          "end": 1.46,
+          "probability": 0.5017
+        },
+        {
+          "line": 1,
+          "text": "भी",
+          "spoken": "भी",
+          "start": 1.46,
+          "end": 1.64,
+          "probability": 0.8449
+        },
+        {
+          "line": 1,
+          "text": "होना",
+          "spoken": "होना",
+          "start": 1.64,
+          "end": 2.02,
+          "probability": 0.8386
+        },
+        {
+          "line": 1,
+          "text": "है",
+          "spoken": "है",
+          "start": 2.02,
+          "end": 2.14,
+          "probability": 0.9548
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "पतला",
+          "भी",
+          "होना",
+          "है"
+        ]
+      ]
+    },
+    {
+      "line": 2,
+      "start": 2.32,
+      "end": 3.92,
+      "words": [
+        {
+          "line": 2,
+          "text": "कैसी",
+          "spoken": "कैसी",
+          "start": 2.32,
+          "end": 2.62,
+          "probability": 0.7967
+        },
+        {
+          "line": 2,
+          "text": "पहेली",
+          "spoken": "पहेली",
+          "start": 2.62,
+          "end": 3.22,
+          "probability": 0.6707
+        },
+        {
+          "line": 2,
+          "text": "है",
+          "spoken": "है",
+          "start": 3.22,
+          "end": 3.36,
+          "probability": 0.9582
+        },
+        {
+          "line": 2,
+          "text": "तू",
+          "spoken": "तू",
+          "start": 3.36,
+          "end": 3.8,
+          "probability": 0.6864
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "कैसी",
+          "पहेली",
+          "है",
+          "तू"
+        ]
+      ]
+    },
+    {
+      "line": 3,
+      "start": 4.42,
+      "end": 5.72,
+      "words": [
+        {
+          "line": 3,
+          "text": "Saturday",
+          "spoken": "सैटरडे",
+          "start": 4.42,
+          "end": 5.14,
+          "probability": 0.4119
+        },
+        {
+          "line": 3,
+          "text": "Sunday",
+          "spoken": "संडे",
+          "start": 5.14,
+          "end": 5.52,
+          "probability": 0.4422
+        },
+        {
+          "line": 3,
+          "text": "को",
+          "spoken": "को",
+          "start": 5.52,
+          "end": 5.72,
+          "probability": 0.9233
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "Saturday",
+          "Sunday",
+          "को"
+        ]
+      ]
+    },
+    {
+      "line": 4,
+      "start": 5.72,
+      "end": 6.94,
+      "words": [
+        {
+          "line": 3,
+          "text": "Party",
+          "spoken": "पार्टी",
+          "start": 5.72,
+          "end": 6.1,
+          "probability": 0.7157
+        },
+        {
+          "line": 3,
+          "text": "भी",
+          "spoken": "भी",
+          "start": 6.1,
+          "end": 6.26,
+          "probability": 0.7277
+        },
+        {
+          "line": 3,
+          "text": "करना",
+          "spoken": "करना",
+          "start": 6.26,
+          "end": 6.68,
+          "probability": 0.8364
+        },
+        {
+          "line": 3,
+          "text": "है",
+          "spoken": "है",
+          "start": 6.68,
+          "end": 6.84,
+          "probability": 0.9658
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "Party",
+          "भी",
+          "करना",
+          "है"
+        ]
+      ]
+    },
+    {
+      "line": 5,
+      "start": 6.94,
+      "end": 8.58,
+      "words": [
+        {
+          "line": 4,
+          "text": "सोएगी",
+          "spoken": "सोएगी",
+          "start": 6.94,
+          "end": 7.42,
+          "probability": 0.5848
+        },
+        {
+          "line": 4,
+          "text": "फिर",
+          "spoken": "फिर",
+          "start": 7.42,
+          "end": 7.64,
+          "probability": 0.4646
+        },
+        {
+          "line": 4,
+          "text": "कब",
+          "spoken": "कब",
+          "start": 7.64,
+          "end": 7.9,
+          "probability": 0.3072
+        },
+        {
+          "line": 4,
+          "text": "तू",
+          "spoken": "तू",
+          "start": 7.9,
+          "end": 8.46,
+          "probability": 0.4143
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "सोएगी",
+          "फिर",
+          "कब",
+          "तू"
+        ]
+      ]
+    },
+    {
+      "line": 6,
+      "start": 9.12,
+      "end": 11.38,
+      "words": [
+        {
+          "line": 5,
+          "text": "मेहनत",
+          "spoken": "मेहनत",
+          "start": 9.12,
+          "end": 9.62,
+          "probability": 0.608
+        },
+        {
+          "line": 5,
+          "text": "करेगी",
+          "spoken": "करेगी",
+          "start": 9.62,
+          "end": 10.22,
+          "probability": 0.8796
+        },
+        {
+          "line": 5,
+          "text": "तो",
+          "spoken": "तो",
+          "start": 10.22,
+          "end": 10.44,
+          "probability": 0.7556
+        },
+        {
+          "line": 5,
+          "text": "आएगा",
+          "spoken": "आएगा",
+          "start": 10.44,
+          "end": 10.92,
+          "probability": 0.8246
+        },
+        {
+          "line": 5,
+          "text": "Good",
+          "spoken": "गुड",
+          "start": 11.06,
+          "end": 11.2,
+          "probability": 0.5135
+        },
+        {
+          "line": 5,
+          "text": "Luck",
+          "spoken": "लक",
+          "start": 11.2,
+          "end": 11.34,
+          "probability": 0.2929
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "मेहनत",
+          "करेगी",
+          "तो"
+        ],
+        [
+          "आएगा",
+          "Good",
+          "Luck"
+        ]
+      ]
+    },
+    {
+      "line": 7,
+      "start": 11.38,
+      "end": 13.34,
+      "words": [
+        {
+          "line": 6,
+          "text": "ना",
+          "spoken": "ना",
+          "start": 11.38,
+          "end": 11.6,
+          "probability": 0.3706
+        },
+        {
+          "line": 6,
+          "text": "ला",
+          "spoken": "ला",
+          "start": 11.6,
+          "end": 11.74,
+          "probability": 0.9115
+        },
+        {
+          "line": 6,
+          "text": "पाएगा",
+          "spoken": "पाएगा",
+          "start": 11.74,
+          "end": 12.28,
+          "probability": 0.7243
+        },
+        {
+          "line": 6,
+          "text": "Labubu",
+          "spoken": "लाबूबू",
+          "start": 12.28,
+          "end": 13.22,
+          "probability": 0.6216
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "ना",
+          "ला",
+          "पाएगा",
+          "Labubu"
+        ]
+      ]
+    },
+    {
+      "line": 8,
+      "start": 13.9,
+      "end": 16.14,
+      "words": [
+        {
+          "line": 7,
+          "text": "घर",
+          "spoken": "घर",
+          "start": 13.9,
+          "end": 14.42,
+          "probability": 0.4023
+        },
+        {
+          "line": 7,
+          "text": "से",
+          "spoken": "से",
+          "start": 14.42,
+          "end": 14.76,
+          "probability": 0.9077
+        },
+        {
+          "line": 7,
+          "text": "कहके",
+          "spoken": "कहके",
+          "start": 14.76,
+          "end": 15.28,
+          "probability": 0.4183
+        },
+        {
+          "line": 7,
+          "text": "निकली",
+          "spoken": "निकली",
+          "start": 15.28,
+          "end": 15.84,
+          "probability": 0.6914
+        },
+        {
+          "line": 7,
+          "text": "थी",
+          "spoken": "थी",
+          "start": 15.84,
+          "end": 16.14,
+          "probability": 0.4402
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "घर",
+          "से",
+          "कहके",
+          "निकली",
+          "थी"
+        ]
+      ]
+    },
+    {
+      "line": 9,
+      "start": 16.14,
+      "end": 18.16,
+      "words": [
+        {
+          "line": 8,
+          "text": "बाहर",
+          "spoken": "बाहर",
+          "start": 16.14,
+          "end": 16.7,
+          "probability": 0.9005
+        },
+        {
+          "line": 8,
+          "text": "ना",
+          "spoken": "ना",
+          "start": 16.7,
+          "end": 17.04,
+          "probability": 0.9102
+        },
+        {
+          "line": 8,
+          "text": "मैं",
+          "spoken": "मैं",
+          "start": 17.04,
+          "end": 17.36,
+          "probability": 0.7089
+        },
+        {
+          "line": 8,
+          "text": "खाऊंगी",
+          "spoken": "खाऊंगी",
+          "start": 17.36,
+          "end": 18.16,
+          "probability": 0.4675
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "बाहर",
+          "ना",
+          "मैं",
+          "खाऊंगी"
+        ]
+      ]
+    },
+    {
+      "line": 10,
+      "start": 18.16,
+      "end": 19.42,
+      "words": [
+        {
+          "line": 9,
+          "text": "पर",
+          "spoken": "पर",
+          "start": 18.16,
+          "end": 18.48,
+          "probability": 0.8908
+        },
+        {
+          "line": 9,
+          "text": "खाई",
+          "spoken": "खाई",
+          "start": 18.48,
+          "end": 19.04,
+          "probability": 0.3958
+        },
+        {
+          "line": 9,
+          "text": "ना",
+          "spoken": "ना",
+          "start": 19.04,
+          "end": 19.42,
+          "probability": 0.669
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "पर",
+          "खाई",
+          "ना"
+        ]
+      ]
+    },
+    {
+      "line": 11,
+      "start": 19.42,
+      "end": 21.68,
+      "words": [
+        {
+          "line": 9,
+          "text": "फिर",
+          "spoken": "फिर",
+          "start": 19.42,
+          "end": 19.94,
+          "probability": 0.7218
+        },
+        {
+          "line": 9,
+          "text": "से",
+          "spoken": "से",
+          "start": 19.94,
+          "end": 20.2,
+          "probability": 0.9035
+        },
+        {
+          "line": 9,
+          "text": "बाहर",
+          "spoken": "बाहर",
+          "start": 20.2,
+          "end": 20.8,
+          "probability": 0.9131
+        },
+        {
+          "line": 9,
+          "text": "खाई",
+          "spoken": "खाई",
+          "start": 20.8,
+          "end": 21.34,
+          "probability": 0.9076
+        },
+        {
+          "line": 9,
+          "text": "ना",
+          "spoken": "ना",
+          "start": 21.34,
+          "end": 21.68,
+          "probability": 0.9585
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "फिर",
+          "से",
+          "बाहर",
+          "खाई",
+          "ना"
+        ]
+      ]
+    },
+    {
+      "line": 12,
+      "start": 21.68,
+      "end": 24.06,
+      "words": [
+        {
+          "line": 10,
+          "text": "Burger",
+          "spoken": "बर्गर",
+          "start": 21.68,
+          "end": 22.52,
+          "probability": 0.6863
+        },
+        {
+          "line": 10,
+          "text": "तू",
+          "spoken": "तू",
+          "start": 22.52,
+          "end": 22.82,
+          "probability": 0.8627
+        },
+        {
+          "line": 10,
+          "text": "चबाई",
+          "spoken": "चबाई",
+          "start": 22.82,
+          "end": 23.66,
+          "probability": 0.716
+        },
+        {
+          "line": 10,
+          "text": "ना",
+          "spoken": "ना",
+          "start": 23.66,
+          "end": 24.04,
+          "probability": 0.9194
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "Burger",
+          "तू",
+          "चबाई",
+          "ना"
+        ]
+      ]
+    },
+    {
+      "line": 13,
+      "start": 24.06,
+      "end": 25.42,
+      "words": [
+        {
+          "line": 11,
+          "text": "फिर",
+          "spoken": "फिर",
+          "start": 24.06,
+          "end": 24.62,
+          "probability": 0.8897
+        },
+        {
+          "line": 11,
+          "text": "कहती",
+          "spoken": "कहती",
+          "start": 24.62,
+          "end": 25.14,
+          "probability": 0.8271
+        },
+        {
+          "line": 11,
+          "text": "है",
+          "spoken": "है",
+          "start": 25.14,
+          "end": 25.3,
+          "probability": 0.9608
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "फिर",
+          "कहती",
+          "है"
+        ]
+      ]
+    },
+    {
+      "line": 14,
+      "start": 25.44,
+      "end": 27.040000000000003,
+      "words": [
+        {
+          "line": 11,
+          "text": "Gain",
+          "spoken": "गेन",
+          "start": 25.44,
+          "end": 25.96,
+          "probability": 0.4415
+        },
+        {
+          "line": 11,
+          "text": "हो",
+          "spoken": "हो",
+          "start": 25.96,
+          "end": 26.12,
+          "probability": 0.8944
+        },
+        {
+          "line": 11,
+          "text": "जाता",
+          "spoken": "जाता",
+          "start": 26.12,
+          "end": 26.62,
+          "probability": 0.8582
+        },
+        {
+          "line": 11,
+          "text": "है।",
+          "spoken": "है।",
+          "start": 26.62,
+          "end": 26.92,
+          "probability": 0.5863
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "Gain",
+          "हो",
+          "जाता",
+          "है।"
+        ]
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "scene": 1,
+      "image": "01_sweet_tooth.png",
+      "start": 0,
+      "end": 1.12
+    },
+    {
+      "scene": 2,
+      "image": "02_fitness_plans.png",
+      "start": 1.12,
+      "end": 2.32
+    },
+    {
+      "scene": 3,
+      "image": "03_puzzle.png",
+      "start": 2.32,
+      "end": 4.42
+    },
+    {
+      "scene": 4,
+      "image": "04_weekend_party.png",
+      "start": 4.42,
+      "end": 6.94
+    },
+    {
+      "scene": 5,
+      "image": "05_when_sleep.png",
+      "start": 6.94,
+      "end": 9.12
+    },
+    {
+      "scene": 6,
+      "image": "06_hard_work.png",
+      "start": 9.12,
+      "end": 11.38
+    },
+    {
+      "scene": 7,
+      "image": "07_labubu.png",
+      "start": 11.38,
+      "end": 13.9
+    },
+    {
+      "scene": 8,
+      "image": "08_leaving_home.png",
+      "start": 13.9,
+      "end": 16.14
+    },
+    {
+      "scene": 9,
+      "image": "09_food_temptation.png",
+      "start": 16.14,
+      "end": 18.16
+    },
+    {
+      "scene": 10,
+      "image": "10_caught_eating.png",
+      "start": 18.16,
+      "end": 21.68
+    },
+    {
+      "scene": 11,
+      "image": "11_burger_bite.png",
+      "start": 21.68,
+      "end": 24.06
+    },
+    {
+      "scene": 12,
+      "image": "12_scale_surprise.png",
+      "start": 24.06,
+      "end": 27.062875
+    }
+  ]
+}
