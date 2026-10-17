@@ -1,0 +1,35 @@
+{
+  "title": "NEW SONG TITLE",
+  "artist": "Hansi Ki Dhun",
+  "duration": 5.0,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "phrases": [
+    {
+      "line": 0,
+      "start": 1.0,
+      "end": 3.0,
+      "words": [
+        {
+          "text": "नमस्ते",
+          "start": 1.0,
+          "end": 2.0
+        },
+        {
+          "text": "दोस्तों",
+          "start": 2.0,
+          "end": 3.0
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "scene": 1,
+      "image": "01_scene.png",
+      "start": 0.0,
+      "end": 5.0
+    }
+  ]
+}
