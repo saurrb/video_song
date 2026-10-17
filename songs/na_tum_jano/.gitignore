@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+video_work/fonts/*.ttf
+video_work/song_16k.wav
+video_work/final_qa/
+video_work/preview_check.jpg
+video_work/*.log
+final_video/preview.mp4
+portrait_images_na_tum_jano.zip

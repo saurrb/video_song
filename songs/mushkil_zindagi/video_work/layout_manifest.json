@@ -1,0 +1,483 @@
+{
+  "title": "Mushkil Zindagi — मुश्किल ज़िंदगी",
+  "artist": "Hansi Ki Dhun",
+  "duration": 34.089775,
+  "scenes": [
+    {
+      "scene": 1,
+      "image": "01_problem_bundle.png",
+      "start": 0,
+      "end": 4.58
+    },
+    {
+      "scene": 2,
+      "image": "02_daily_tension.png",
+      "start": 4.58,
+      "end": 9.5
+    },
+    {
+      "scene": 3,
+      "image": "03_raincloud.png",
+      "start": 9.5,
+      "end": 15.26
+    },
+    {
+      "scene": 4,
+      "image": "04_no_solution.png",
+      "start": 15.26,
+      "end": 20.6
+    },
+    {
+      "scene": 5,
+      "image": "05_mushkil.png",
+      "start": 20.6,
+      "end": 23.78
+    },
+    {
+      "scene": 6,
+      "image": "06_balancing_life.png",
+      "start": 23.78,
+      "end": 28.0
+    },
+    {
+      "scene": 7,
+      "image": "07_tears.png",
+      "start": 28.0,
+      "end": 34.089775
+    }
+  ],
+  "phrases": [
+    {
+      "start": 0.0,
+      "end": 2.4,
+      "words": [
+        {
+          "text": "Saath",
+          "start": 0.0,
+          "end": 0.74
+        },
+        {
+          "text": "problem",
+          "start": 0.74,
+          "end": 1.4
+        },
+        {
+          "text": "se",
+          "start": 1.4,
+          "end": 1.86
+        },
+        {
+          "text": "bandha",
+          "start": 1.86,
+          "end": 2.4
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "Saath",
+          "problem"
+        ],
+        [
+          "se",
+          "bandha"
+        ]
+      ]
+    },
+    {
+      "start": 2.4,
+      "end": 4.58,
+      "words": [
+        {
+          "text": "janmo",
+          "start": 2.4,
+          "end": 3.26
+        },
+        {
+          "text": "ka",
+          "start": 3.26,
+          "end": 3.48
+        },
+        {
+          "text": "ye",
+          "start": 3.48,
+          "end": 3.66
+        },
+        {
+          "text": "bandhan",
+          "start": 3.66,
+          "end": 4.58
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "janmo",
+          "ka"
+        ],
+        [
+          "ye",
+          "bandhan"
+        ]
+      ]
+    },
+    {
+      "start": 4.58,
+      "end": 7.16,
+      "words": [
+        {
+          "text": "Hai",
+          "start": 4.58,
+          "end": 5.7
+        },
+        {
+          "text": "yahan",
+          "start": 5.7,
+          "end": 6.28
+        },
+        {
+          "text": "par",
+          "start": 6.28,
+          "end": 6.58
+        },
+        {
+          "text": "roz",
+          "start": 6.58,
+          "end": 7.16
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "Hai",
+          "yahan",
+          "par",
+          "roz"
+        ]
+      ]
+    },
+    {
+      "start": 7.16,
+      "end": 9.5,
+      "words": [
+        {
+          "text": "ek",
+          "start": 7.16,
+          "end": 7.52
+        },
+        {
+          "text": "na",
+          "start": 7.52,
+          "end": 7.88
+        },
+        {
+          "text": "ek",
+          "start": 7.88,
+          "end": 8.28
+        },
+        {
+          "text": "nayi",
+          "start": 8.28,
+          "end": 8.68
+        },
+        {
+          "text": "tension",
+          "start": 8.68,
+          "end": 9.44
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "ek",
+          "na",
+          "ek"
+        ],
+        [
+          "nayi",
+          "tension"
+        ]
+      ]
+    },
+    {
+      "start": 9.5,
+      "end": 12.36,
+      "words": [
+        {
+          "text": "Dukh",
+          "start": 9.5,
+          "end": 10.82
+        },
+        {
+          "text": "sehna",
+          "start": 10.82,
+          "end": 11.68
+        },
+        {
+          "text": "toh",
+          "start": 11.68,
+          "end": 12.06
+        },
+        {
+          "text": "hai",
+          "start": 12.06,
+          "end": 12.36
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "Dukh",
+          "sehna",
+          "toh",
+          "hai"
+        ]
+      ]
+    },
+    {
+      "start": 12.36,
+      "end": 14.719999999999999,
+      "words": [
+        {
+          "text": "sukh",
+          "start": 12.36,
+          "end": 12.62
+        },
+        {
+          "text": "ye",
+          "start": 12.62,
+          "end": 12.86
+        },
+        {
+          "text": "mera",
+          "start": 12.86,
+          "end": 13.6
+        },
+        {
+          "text": "toh",
+          "start": 13.6,
+          "end": 13.84
+        },
+        {
+          "text": "dushman",
+          "start": 13.84,
+          "end": 14.6
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "sukh",
+          "ye",
+          "mera"
+        ],
+        [
+          "toh",
+          "dushman"
+        ]
+      ]
+    },
+    {
+      "start": 15.26,
+      "end": 17.06,
+      "words": [
+        {
+          "text": "Milta",
+          "start": 15.26,
+          "end": 16.24
+        },
+        {
+          "text": "na",
+          "start": 16.24,
+          "end": 16.5
+        },
+        {
+          "text": "koi",
+          "start": 16.5,
+          "end": 17.06
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "Milta",
+          "na",
+          "koi"
+        ]
+      ]
+    },
+    {
+      "start": 17.06,
+      "end": 19.8,
+      "words": [
+        {
+          "text": "samasyaon",
+          "start": 17.06,
+          "end": 18.38
+        },
+        {
+          "text": "ka",
+          "start": 18.38,
+          "end": 18.78
+        },
+        {
+          "text": "solution",
+          "start": 18.78,
+          "end": 19.68
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "samasyaon"
+        ],
+        [
+          "ka",
+          "solution"
+        ]
+      ]
+    },
+    {
+      "start": 20.6,
+      "end": 23.78,
+      "words": [
+        {
+          "text": "Mushkil,",
+          "start": 20.6,
+          "end": 21.56
+        },
+        {
+          "text": "mushkil,",
+          "start": 22.24,
+          "end": 23.16
+        },
+        {
+          "text": "mushkil",
+          "start": 23.16,
+          "end": 23.78
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "Mushkil,"
+        ],
+        [
+          "mushkil,",
+          "mushkil"
+        ]
+      ]
+    },
+    {
+      "start": 23.78,
+      "end": 25.66,
+      "words": [
+        {
+          "text": "Jeevan",
+          "start": 23.78,
+          "end": 24.34
+        },
+        {
+          "text": "ko",
+          "start": 24.34,
+          "end": 24.76
+        },
+        {
+          "text": "bachana",
+          "start": 24.76,
+          "end": 25.66
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "Jeevan",
+          "ko",
+          "bachana"
+        ]
+      ]
+    },
+    {
+      "start": 25.66,
+      "end": 27.1,
+      "words": [
+        {
+          "text": "lagta",
+          "start": 25.66,
+          "end": 26.26
+        },
+        {
+          "text": "hai",
+          "start": 26.26,
+          "end": 26.98
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "lagta",
+          "hai"
+        ]
+      ]
+    },
+    {
+      "start": 28.0,
+      "end": 29.78,
+      "words": [
+        {
+          "text": "Zindagi",
+          "start": 28.0,
+          "end": 28.76
+        },
+        {
+          "text": "ko",
+          "start": 28.76,
+          "end": 29.2
+        },
+        {
+          "text": "achha",
+          "start": 29.2,
+          "end": 29.78
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "Zindagi",
+          "ko",
+          "achha"
+        ]
+      ]
+    },
+    {
+      "start": 29.78,
+      "end": 32.08,
+      "words": [
+        {
+          "text": "rulana",
+          "start": 29.78,
+          "end": 30.68
+        },
+        {
+          "text": "lagta",
+          "start": 30.68,
+          "end": 31.34
+        },
+        {
+          "text": "hai",
+          "start": 31.34,
+          "end": 31.96
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "rulana",
+          "lagta",
+          "hai"
+        ]
+      ]
+    }
+  ],
+  "timing_note": "Fresh Whisper-small forced alignment. Several silence-absorbing starts corrected using independent transcription; original wording and punctuation preserved. Word times are model estimates."
+}

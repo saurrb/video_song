@@ -1,0 +1,370 @@
+[
+  {
+    "line": 0,
+    "text": "Saath",
+    "spoken": "साथ",
+    "start": 0.0,
+    "end": 0.74,
+    "probability": 0.6584
+  },
+  {
+    "line": 0,
+    "text": "problem",
+    "spoken": "प्रॉब्लम",
+    "start": 0.74,
+    "end": 1.4,
+    "probability": 0.4919
+  },
+  {
+    "line": 0,
+    "text": "se",
+    "spoken": "से",
+    "start": 1.4,
+    "end": 1.86,
+    "probability": 0.7208
+  },
+  {
+    "line": 0,
+    "text": "bandha",
+    "spoken": "बंधा",
+    "start": 1.86,
+    "end": 2.4,
+    "probability": 0.7305
+  },
+  {
+    "line": 0,
+    "text": "janmo",
+    "spoken": "जन्मों",
+    "start": 2.4,
+    "end": 3.26,
+    "probability": 0.6758
+  },
+  {
+    "line": 0,
+    "text": "ka",
+    "spoken": "का",
+    "start": 3.26,
+    "end": 3.48,
+    "probability": 0.5403
+  },
+  {
+    "line": 0,
+    "text": "ye",
+    "spoken": "ये",
+    "start": 3.48,
+    "end": 3.66,
+    "probability": 0.7909
+  },
+  {
+    "line": 0,
+    "text": "bandhan",
+    "spoken": "बंधन",
+    "start": 3.66,
+    "end": 4.58,
+    "probability": 0.81
+  },
+  {
+    "line": 1,
+    "text": "Hai",
+    "spoken": "है",
+    "start": 4.58,
+    "end": 5.7,
+    "probability": 0.8005
+  },
+  {
+    "line": 1,
+    "text": "yahan",
+    "spoken": "यहाँ",
+    "start": 5.7,
+    "end": 6.28,
+    "probability": 0.6192
+  },
+  {
+    "line": 1,
+    "text": "par",
+    "spoken": "पर",
+    "start": 6.28,
+    "end": 6.58,
+    "probability": 0.8663
+  },
+  {
+    "line": 1,
+    "text": "roz",
+    "spoken": "रोज",
+    "start": 6.58,
+    "end": 7.16,
+    "probability": 0.8975
+  },
+  {
+    "line": 1,
+    "text": "ek",
+    "spoken": "एक",
+    "start": 7.16,
+    "end": 7.52,
+    "probability": 0.751
+  },
+  {
+    "line": 1,
+    "text": "na",
+    "spoken": "ना",
+    "start": 7.52,
+    "end": 7.88,
+    "probability": 0.8907
+  },
+  {
+    "line": 1,
+    "text": "ek",
+    "spoken": "एक",
+    "start": 7.88,
+    "end": 8.28,
+    "probability": 0.8504
+  },
+  {
+    "line": 1,
+    "text": "nayi",
+    "spoken": "नई",
+    "start": 8.28,
+    "end": 8.68,
+    "probability": 0.6321
+  },
+  {
+    "line": 1,
+    "text": "tension",
+    "spoken": "टेंशन",
+    "start": 8.68,
+    "end": 9.44,
+    "probability": 0.4817
+  },
+  {
+    "line": 2,
+    "text": "Dukh",
+    "spoken": "दुख",
+    "start": 9.5,
+    "end": 10.82,
+    "probability": 0.6204
+  },
+  {
+    "line": 2,
+    "text": "sehna",
+    "spoken": "सहना",
+    "start": 10.82,
+    "end": 11.68,
+    "probability": 0.6702
+  },
+  {
+    "line": 2,
+    "text": "toh",
+    "spoken": "तो",
+    "start": 11.68,
+    "end": 12.06,
+    "probability": 0.6615
+  },
+  {
+    "line": 2,
+    "text": "hai",
+    "spoken": "है",
+    "start": 12.06,
+    "end": 12.36,
+    "probability": 0.4224
+  },
+  {
+    "line": 2,
+    "text": "sukh",
+    "spoken": "सुख",
+    "start": 12.36,
+    "end": 12.62,
+    "probability": 0.6158
+  },
+  {
+    "line": 2,
+    "text": "ye",
+    "spoken": "ये",
+    "start": 12.62,
+    "end": 12.86,
+    "probability": 0.5243
+  },
+  {
+    "line": 2,
+    "text": "mera",
+    "spoken": "मेरा",
+    "start": 12.86,
+    "end": 13.6,
+    "probability": 0.8083
+  },
+  {
+    "line": 2,
+    "text": "toh",
+    "spoken": "तो",
+    "start": 13.6,
+    "end": 13.84,
+    "probability": 0.9452
+  },
+  {
+    "line": 2,
+    "text": "dushman",
+    "spoken": "दुश्मन",
+    "start": 13.84,
+    "end": 14.6,
+    "probability": 0.6327
+  },
+  {
+    "line": 3,
+    "text": "Milta",
+    "spoken": "मिलता",
+    "start": 14.6,
+    "end": 16.24,
+    "probability": 0.6135
+  },
+  {
+    "line": 3,
+    "text": "na",
+    "spoken": "ना",
+    "start": 16.24,
+    "end": 16.5,
+    "probability": 0.6068
+  },
+  {
+    "line": 3,
+    "text": "koi",
+    "spoken": "कोई",
+    "start": 16.5,
+    "end": 17.06,
+    "probability": 0.7845
+  },
+  {
+    "line": 3,
+    "text": "samasyaon",
+    "spoken": "समस्याओं",
+    "start": 17.06,
+    "end": 18.38,
+    "probability": 0.6063
+  },
+  {
+    "line": 3,
+    "text": "ka",
+    "spoken": "का",
+    "start": 18.38,
+    "end": 18.78,
+    "probability": 0.6961
+  },
+  {
+    "line": 3,
+    "text": "solution",
+    "spoken": "सॉल्यूशन",
+    "start": 18.78,
+    "end": 19.68,
+    "probability": 0.5051
+  },
+  {
+    "line": 4,
+    "text": "Mushkil",
+    "spoken": "मुश्किल",
+    "start": 20.1,
+    "end": 21.56,
+    "probability": 0.6036
+  },
+  {
+    "line": 4,
+    "text": "mushkil",
+    "spoken": "मुश्किल",
+    "start": 21.56,
+    "end": 23.16,
+    "probability": 0.8801
+  },
+  {
+    "line": 4,
+    "text": "mushkil",
+    "spoken": "मुश्किल",
+    "start": 23.16,
+    "end": 23.78,
+    "probability": 0.9286
+  },
+  {
+    "line": 5,
+    "text": "Jeevan",
+    "spoken": "जीवन",
+    "start": 23.78,
+    "end": 24.34,
+    "probability": 0.8525
+  },
+  {
+    "line": 5,
+    "text": "ko",
+    "spoken": "को",
+    "start": 24.34,
+    "end": 24.76,
+    "probability": 0.7719
+  },
+  {
+    "line": 5,
+    "text": "bachana",
+    "spoken": "बचाना",
+    "start": 24.76,
+    "end": 25.66,
+    "probability": 0.88
+  },
+  {
+    "line": 5,
+    "text": "lagta",
+    "spoken": "लगता",
+    "start": 25.66,
+    "end": 26.26,
+    "probability": 0.8383
+  },
+  {
+    "line": 5,
+    "text": "hai",
+    "spoken": "है",
+    "start": 26.26,
+    "end": 26.64,
+    "probability": 0.9393
+  },
+  {
+    "line": 6,
+    "text": "Zindagi",
+    "spoken": "जिंदगी",
+    "start": 27.7,
+    "end": 28.76,
+    "probability": 0.3871
+  },
+  {
+    "line": 6,
+    "text": "ko",
+    "spoken": "को",
+    "start": 28.76,
+    "end": 29.2,
+    "probability": 0.89
+  },
+  {
+    "line": 6,
+    "text": "achha",
+    "spoken": "अच्छा",
+    "start": 29.2,
+    "end": 29.78,
+    "probability": 0.7207
+  },
+  {
+    "line": 6,
+    "text": "rulana",
+    "spoken": "रुलाना",
+    "start": 29.78,
+    "end": 30.68,
+    "probability": 0.6301
+  },
+  {
+    "line": 6,
+    "text": "lagta",
+    "spoken": "लगता",
+    "start": 30.68,
+    "end": 31.34,
+    "probability": 0.7102
+  },
+  {
+    "line": 6,
+    "text": "hai",
+    "spoken": "है",
+    "start": 31.34,
+    "end": 31.74,
+    "probability": 0.959
+  }
+]
