@@ -1,0 +1,298 @@
+{
+  "title": "Ho Gaya Hu Main Besharam",
+  "artist": "Hansi Ki Dhun",
+  "duration": 31.895475,
+  "scenes": [
+    {
+      "scene": 1,
+      "image": "01_faded_colours.png",
+      "start": 0,
+      "end": 4.68
+    },
+    {
+      "scene": 2,
+      "image": "02_empty_wallet.png",
+      "start": 4.68,
+      "end": 10.8
+    },
+    {
+      "scene": 3,
+      "image": "03_inflation.png",
+      "start": 10.8,
+      "end": 16.64
+    },
+    {
+      "scene": 4,
+      "image": "04_debt.png",
+      "start": 16.64,
+      "end": 22.0
+    },
+    {
+      "scene": 5,
+      "image": "05_sleeping.png",
+      "start": 22.0,
+      "end": 28.4
+    },
+    {
+      "scene": 6,
+      "image": "06_besharam.png",
+      "start": 28.4,
+      "end": 31.895475
+    }
+  ],
+  "phrases": [
+    {
+      "start": 0.0,
+      "end": 2.44,
+      "words": [
+        {
+          "text": "Ab",
+          "start": 0.0,
+          "end": 0.94
+        },
+        {
+          "text": "zindagi",
+          "start": 0.94,
+          "end": 2.08
+        },
+        {
+          "text": "mein",
+          "start": 2.08,
+          "end": 2.44
+        }
+      ]
+    },
+    {
+      "start": 2.44,
+      "end": 4.68,
+      "words": [
+        {
+          "text": "rang",
+          "start": 2.44,
+          "end": 3.12
+        },
+        {
+          "text": "nahi",
+          "start": 3.12,
+          "end": 3.8
+        },
+        {
+          "text": "waisa",
+          "start": 3.8,
+          "end": 4.68
+        }
+      ]
+    },
+    {
+      "start": 4.68,
+      "end": 8.16,
+      "words": [
+        {
+          "text": "Kyunki",
+          "start": 4.68,
+          "end": 6.46
+        },
+        {
+          "text": "aata",
+          "start": 6.46,
+          "end": 7.32
+        },
+        {
+          "text": "nahi",
+          "start": 7.32,
+          "end": 8.16
+        }
+      ]
+    },
+    {
+      "start": 8.16,
+      "end": 10.059999999999999,
+      "words": [
+        {
+          "text": "hai",
+          "start": 8.16,
+          "end": 8.38
+        },
+        {
+          "text": "zyada",
+          "start": 8.38,
+          "end": 9.22
+        },
+        {
+          "text": "paisa",
+          "start": 9.22,
+          "end": 9.94
+        }
+      ]
+    },
+    {
+      "start": 10.8,
+      "end": 14.12,
+      "words": [
+        {
+          "text": "Mehngai",
+          "start": 10.8,
+          "end": 12.66
+        },
+        {
+          "text": "din",
+          "start": 12.66,
+          "end": 12.96
+        },
+        {
+          "text": "pe",
+          "start": 12.96,
+          "end": 13.2
+        },
+        {
+          "text": "din",
+          "start": 13.2,
+          "end": 14.12
+        }
+      ]
+    },
+    {
+      "start": 14.12,
+      "end": 16.42,
+      "words": [
+        {
+          "text": "badhti",
+          "start": 14.12,
+          "end": 14.98
+        },
+        {
+          "text": "ja",
+          "start": 14.98,
+          "end": 15.76
+        },
+        {
+          "text": "rahi",
+          "start": 15.76,
+          "end": 16.3
+        }
+      ]
+    },
+    {
+      "start": 16.64,
+      "end": 19.3,
+      "words": [
+        {
+          "text": "Karze",
+          "start": 16.64,
+          "end": 17.92
+        },
+        {
+          "text": "mein",
+          "start": 17.92,
+          "end": 18.18
+        },
+        {
+          "text": "zindagi",
+          "start": 18.18,
+          "end": 19.3
+        }
+      ]
+    },
+    {
+      "start": 19.3,
+      "end": 21.880000000000003,
+      "words": [
+        {
+          "text": "pisti",
+          "start": 19.3,
+          "end": 20.46
+        },
+        {
+          "text": "ja",
+          "start": 20.46,
+          "end": 21.18
+        },
+        {
+          "text": "rahi",
+          "start": 21.18,
+          "end": 21.76
+        }
+      ]
+    },
+    {
+      "start": 22.0,
+      "end": 25.2,
+      "words": [
+        {
+          "text": "Kaam",
+          "start": 22.0,
+          "end": 23.32
+        },
+        {
+          "text": "nahi",
+          "start": 23.32,
+          "end": 24.04
+        },
+        {
+          "text": "hota",
+          "start": 24.04,
+          "end": 25.08
+        }
+      ]
+    },
+    {
+      "start": 25.76,
+      "end": 28.14,
+      "words": [
+        {
+          "text": "din",
+          "start": 25.76,
+          "end": 26.12
+        },
+        {
+          "text": "raat",
+          "start": 26.12,
+          "end": 26.64
+        },
+        {
+          "text": "sota",
+          "start": 26.64,
+          "end": 28.02
+        }
+      ]
+    },
+    {
+      "start": 28.4,
+      "end": 29.46,
+      "words": [
+        {
+          "text": "Ho",
+          "start": 28.4,
+          "end": 28.74
+        },
+        {
+          "text": "gaya",
+          "start": 28.74,
+          "end": 29.22
+        },
+        {
+          "text": "hu",
+          "start": 29.22,
+          "end": 29.46
+        }
+      ]
+    },
+    {
+      "start": 29.46,
+      "end": 31.48,
+      "words": [
+        {
+          "text": "main",
+          "start": 29.46,
+          "end": 30.08
+        },
+        {
+          "text": "besharam",
+          "start": 30.08,
+          "end": 31.36
+        }
+      ]
+    }
+  ],
+  "timing_note": "Fresh Whisper-small forced alignment with supplied lyrics. Inflation line separately transcribed after initial omission; three silence-absorbing starts corrected from independent transcription. Word times remain model estimates."
+}

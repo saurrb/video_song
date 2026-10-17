@@ -1,0 +1,6 @@
+numpy
+opencv-python
+Pillow
+uharfbuzz
+fonttools
+faster-whisper==1.2.1

@@ -1,0 +1,47 @@
+{
+  "video": "C:\\Users\\Saurabh\\Documents\\video_song\\songs\\besharam_paisa\\final_video\\besharam_paisa_1080x1920.mp4",
+  "width": 1080,
+  "height": 1920,
+  "frame_rate": "30/1",
+  "decoded_frames": 957,
+  "audio_duration": "31.895000",
+  "video_duration": "31.900000",
+  "scenes": 6,
+  "timeline_shots": 6,
+  "lyric_phrases": 12,
+  "timed_words": 36,
+  "unexpected_black_frames": [],
+  "audio_alignment_checks": [
+    {
+      "time_seconds": 1,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999674173106995
+    },
+    {
+      "time_seconds": 8,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999796827190605
+    },
+    {
+      "time_seconds": 15,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999745632646897
+    },
+    {
+      "time_seconds": 23,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999760406478801
+    },
+    {
+      "time_seconds": 30,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999654781367472
+    }
+  ],
+  "note": "Word timestamps are Whisper model estimates, aligned to supplied lyrics; they are not a human listening certification."
+}
