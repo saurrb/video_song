@@ -1,0 +1,47 @@
+{
+  "video": "C:\\Users\\Saurabh\\Documents\\video_song\\songs\\hoodie_breakup\\final_video\\hoodie_kinetic_song_1080x1920.mp4",
+  "width": 1080,
+  "height": 1920,
+  "frame_rate": "30/1",
+  "decoded_frames": 2053,
+  "audio_duration": "68.441000",
+  "video_duration": "68.433333",
+  "scenes": 32,
+  "timeline_shots": 36,
+  "lyric_phrases": 38,
+  "timed_words": 165,
+  "unexpected_black_frames": [],
+  "audio_alignment_checks": [
+    {
+      "time_seconds": 1,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999414339226971
+    },
+    {
+      "time_seconds": 20,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9998159899472593
+    },
+    {
+      "time_seconds": 40,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9996113152190556
+    },
+    {
+      "time_seconds": 55,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9995805133449843
+    },
+    {
+      "time_seconds": 65,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9994245311599256
+    }
+  ],
+  "note": "Word timestamps are Whisper model estimates, aligned to supplied lyrics; they are not a human listening certification."
+}
