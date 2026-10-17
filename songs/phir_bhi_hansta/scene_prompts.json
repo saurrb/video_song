@@ -1,0 +1,81 @@
+[
+  {
+    "scene": 1,
+    "file": "01_life_game.png",
+    "prompt": "Use case: illustration-story. Create one full-frame portrait 9:16 illustration for a Hindi comedy song reel. Reference controls the GIRL only: long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, oval eyes and rosy cheeks, huge adorable head and tiny body. Girl is sole human, no boy. Warm brown outlines, soft flat 2D pastel cartoon shading. Peach, mint and lavender palette. Highly expressive visual comedy. Keep main action and face in upper 72 percent; lower quarter simple for later kinetic lyrics. No captions, letters, watermark or collage. Scene: Whimsical metaphor of life playing games: girl seated at a giant pastel board-game path suspended among soft lavender clouds, looking upward in bewilderment as two oversized dice tumble above her. Her little game token has landed on a comical raincloud icon while a sunny finish flag is far away. No religious figure. Cute theatrical why-me expression, cinematic wide composition.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png"
+    ]
+  },
+  {
+    "scene": 2,
+    "file": "02_only_me.png",
+    "prompt": "Use case: illustration-story. Create one full-frame portrait 9:16 illustration for a Hindi comedy song reel. Reference controls the GIRL only: long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, oval eyes and rosy cheeks, huge adorable head and tiny body. Girl is sole human, no boy. Warm brown outlines, soft flat 2D pastel cartoon shading. Peach, mint and lavender palette. Highly expressive visual comedy. Keep main action and face in upper 72 percent; lower quarter simple for later kinetic lyrics. No captions, letters, watermark or collage. Scene: On a sunny pastel neighborhood street, one tiny grumpy gray cloud rains only on this girl. She holds a tiny peach umbrella that has flipped inside out, looking up with funny offended eyebrows and a pout. All around her is sunny, flowers bloom. Small harmless puddle, no other people. Second reference locks the girl's identity, clothing, chibi proportions and rendering style. Change setting and pose as described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_life_game.png"
+    ]
+  },
+  {
+    "scene": 3,
+    "file": "03_same_again.png",
+    "prompt": "Use case: illustration-story. Create one full-frame portrait 9:16 illustration for a Hindi comedy song reel. Reference controls the GIRL only: long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, oval eyes and rosy cheeks, huge adorable head and tiny body. Girl is sole human, no boy. Warm brown outlines, soft flat 2D pastel cartoon shading. Peach, mint and lavender palette. Highly expressive visual comedy. Keep main action and face in upper 72 percent; lower quarter simple for later kinetic lyrics. No captions, letters, watermark or collage. Scene: Girl in cozy peach room walking on a mint treadmill that goes nowhere, staring unimpressed at a wall calendar with repeated identical simple gray cloud icons and no letters or numbers. A little circular arrow shape visually suggests same routine again. Body/clothing consistent, funny weary expression. Second reference locks the girl's identity, clothing, chibi proportions and rendering style. Change setting and pose as described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_life_game.png"
+    ]
+  },
+  {
+    "scene": 4,
+    "file": "04_daily_chaos.png",
+    "prompt": "Use case: illustration-story. Create one full-frame portrait 9:16 illustration for a Hindi comedy song reel. Reference controls the GIRL only: long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, oval eyes and rosy cheeks, huge adorable head and tiny body. Girl is sole human, no boy. Warm brown outlines, soft flat 2D pastel cartoon shading. Peach, mint and lavender palette. Highly expressive visual comedy. Keep main action and face in upper 72 percent; lower quarter simple for later kinetic lyrics. No captions, letters, watermark or collage. Scene: Girl in peach home living room overwhelmed by a playful whirl of everyday chores: laundry socks, blank bills, alarm clock, tangled charger and a teacup all floating in a neat comic spiral around her. She balances folded laundry in both hands, hair slightly messy, one giant cartoon sweat drop and exasperated face. Clear readable single scene. Second reference locks the girl's identity, clothing, chibi proportions and rendering style. Change setting and pose as described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_life_game.png"
+    ]
+  },
+  {
+    "scene": 5,
+    "file": "05_no_prince.png",
+    "prompt": "Use case: illustration-story. Create one full-frame portrait 9:16 illustration for a Hindi comedy song reel. Reference controls the GIRL only: long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, oval eyes and rosy cheeks, huge adorable head and tiny body. Girl is sole human, no boy. Warm brown outlines, soft flat 2D pastel cartoon shading. Peach, mint and lavender palette. Highly expressive visual comedy. Keep main action and face in upper 72 percent; lower quarter simple for later kinetic lyrics. No captions, letters, watermark or collage. Scene: Girl alone on one side of a pastel park bench, chin on hand, staring at an empty seat beside her. On empty seat lies a little paper crown and a heart-shaped cushion with a tiny dust cobweb, comically suggesting no prince or sweetheart has arrived. Pretty flowering park and peach sky, cute resigned expression. Second reference locks the girl's identity, clothing, chibi proportions and rendering style. Change setting and pose as described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_life_game.png"
+    ]
+  },
+  {
+    "scene": 6,
+    "file": "06_life_band.png",
+    "prompt": "Use case: illustration-story. Create one full-frame portrait 9:16 illustration for a Hindi comedy song reel. Reference controls the GIRL only: long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, oval eyes and rosy cheeks, huge adorable head and tiny body. Girl is sole human, no boy. Warm brown outlines, soft flat 2D pastel cartoon shading. Peach, mint and lavender palette. Highly expressive visual comedy. Keep main action and face in upper 72 percent; lower quarter simple for later kinetic lyrics. No captions, letters, watermark or collage. Scene: Girl in a whimsical cloud-filled pastel scene comically surrounded by a marching-band bass drum, trumpet and cymbals floating around her, as if life itself has become a noisy band. She covers both ears, cheeks puffed in adorable disbelief, bow askew, little harmless vibration marks. No instrument striking her, clear funny musical chaos. Second reference locks the girl's identity, clothing, chibi proportions and rendering style. Change setting and pose as described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_life_game.png"
+    ]
+  },
+  {
+    "scene": 7,
+    "file": "07_still_smiling.png",
+    "prompt": "Use case: illustration-story. Create one full-frame portrait 9:16 illustration for a Hindi comedy song reel. Reference controls the GIRL only: long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, oval eyes and rosy cheeks, huge adorable head and tiny body. Girl is sole human, no boy. Warm brown outlines, soft flat 2D pastel cartoon shading. Peach, mint and lavender palette. Highly expressive visual comedy. Keep main action and face in upper 72 percent; lower quarter simple for later kinetic lyrics. No captions, letters, watermark or collage. Scene: Girl walks confidently along the same pastel neighborhood street as scene 2, now holding her peach umbrella upright and smiling warmly despite a tiny gray cloud behind her. Sunlight breaks through clouds, a small rainbow appears, flowers along path. One hand gives a cheerful thumbs up, hopeful comic resilience. Second reference locks the girl's identity, clothing, chibi proportions and rendering style. Change setting and pose as described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_life_game.png"
+    ]
+  },
+  {
+    "scene": 8,
+    "file": "08_big_laugh.png",
+    "prompt": "Use case: illustration-story. Create one full-frame portrait 9:16 illustration for a Hindi comedy song reel. Reference controls the GIRL only: long wavy brown hair, peach side bow, peach sweater, lilac pleated skirt, oval eyes and rosy cheeks, huge adorable head and tiny body. Girl is sole human, no boy. Warm brown outlines, soft flat 2D pastel cartoon shading. Peach, mint and lavender palette. Highly expressive visual comedy. Keep main action and face in upper 72 percent; lower quarter simple for later kinetic lyrics. No captions, letters, watermark or collage. Scene: Joyful close-to-medium shot of girl sitting on peach sofa laughing uncontrollably, eyes squeezed shut, wide open happy mouth, one hand on tummy and other wiping a tiny tear of laughter. Peach bow and lilac skirt consistent. Small golden stars and colorful confetti around her, tiny smiling gray cloud floats to the side as visual callback. Keep face fully visible and high in frame. Wholesome funny ending. Second reference locks the girl's identity, clothing, chibi proportions and rendering style. Change setting and pose as described.",
+    "tool": "built-in imagegen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/01_life_game.png"
+    ]
+  }
+]

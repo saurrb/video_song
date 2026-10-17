@@ -1,0 +1,549 @@
+{
+  "title": "फिर भी मैं हंसता जाता",
+  "artist": "",
+  "duration": 24.711875,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "alignment": "Whisper small canonical Hindi alignment with independent ASR pause anchors; six supplied laughter syllables retained by merging initial short ASR fragment",
+  "phrases": [
+    {
+      "line": 0,
+      "start": 0.0,
+      "end": 2.8600000000000003,
+      "words": [
+        {
+          "line": 0,
+          "text": "ओ",
+          "spoken": "ओ",
+          "start": 0.0,
+          "end": 0.42,
+          "probability": 0.2818
+        },
+        {
+          "line": 0,
+          "text": "रब",
+          "spoken": "रब",
+          "start": 0.42,
+          "end": 0.72,
+          "probability": 0.3088
+        },
+        {
+          "line": 0,
+          "text": "भी",
+          "spoken": "भी",
+          "start": 0.72,
+          "end": 1.1,
+          "probability": 0.3729
+        },
+        {
+          "line": 0,
+          "text": "खेल",
+          "spoken": "खेल",
+          "start": 1.1,
+          "end": 1.68,
+          "probability": 0.8261
+        },
+        {
+          "line": 0,
+          "text": "है",
+          "spoken": "है",
+          "start": 1.68,
+          "end": 1.98,
+          "probability": 0.3559
+        },
+        {
+          "line": 0,
+          "text": "खेले",
+          "spoken": "खेले",
+          "start": 1.98,
+          "end": 2.72,
+          "probability": 0.9103
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "ओ",
+          "रब",
+          "भी",
+          "खेल",
+          "है",
+          "खेले"
+        ]
+      ]
+    },
+    {
+      "line": 1,
+      "start": 3.46,
+      "end": 5.9399999999999995,
+      "words": [
+        {
+          "line": 1,
+          "text": "बिना",
+          "spoken": "बिना",
+          "start": 3.46,
+          "end": 3.82,
+          "probability": 0.7289
+        },
+        {
+          "line": 1,
+          "text": "reason",
+          "spoken": "रीजन",
+          "start": 3.82,
+          "end": 4.46,
+          "probability": 0.6197
+        },
+        {
+          "line": 1,
+          "text": "मुझे",
+          "spoken": "मुझे",
+          "start": 4.46,
+          "end": 4.92,
+          "probability": 0.6811
+        },
+        {
+          "line": 1,
+          "text": "पे",
+          "spoken": "पे",
+          "start": 4.92,
+          "end": 5.16,
+          "probability": 0.9344
+        },
+        {
+          "line": 1,
+          "text": "ले।",
+          "spoken": "ले।",
+          "start": 5.16,
+          "end": 5.8,
+          "probability": 0.5668
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "बिना",
+          "reason",
+          "मुझे",
+          "पे",
+          "ले।"
+        ]
+      ]
+    },
+    {
+      "line": 2,
+      "start": 6.4,
+      "end": 8.64,
+      "words": [
+        {
+          "line": 2,
+          "text": "अब",
+          "spoken": "अब",
+          "start": 6.4,
+          "end": 6.64,
+          "probability": 0.8154
+        },
+        {
+          "line": 2,
+          "text": "तक",
+          "spoken": "तक",
+          "start": 6.64,
+          "end": 6.94,
+          "probability": 0.8013
+        },
+        {
+          "line": 2,
+          "text": "कुछ",
+          "spoken": "कुछ",
+          "start": 6.94,
+          "end": 7.46,
+          "probability": 0.8281
+        },
+        {
+          "line": 2,
+          "text": "ना",
+          "spoken": "ना",
+          "start": 7.46,
+          "end": 7.86,
+          "probability": 0.6125
+        },
+        {
+          "line": 2,
+          "text": "बदला",
+          "spoken": "बदला",
+          "start": 7.86,
+          "end": 8.5,
+          "probability": 0.7288
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "अब",
+          "तक",
+          "कुछ",
+          "ना",
+          "बदला"
+        ]
+      ]
+    },
+    {
+      "line": 3,
+      "start": 9.22,
+      "end": 11.72,
+      "words": [
+        {
+          "line": 3,
+          "text": "रोज",
+          "spoken": "रोज",
+          "start": 9.22,
+          "end": 9.54,
+          "probability": 0.6486
+        },
+        {
+          "line": 3,
+          "text": "life",
+          "spoken": "लाइफ",
+          "start": 9.54,
+          "end": 10.02,
+          "probability": 0.6497
+        },
+        {
+          "line": 3,
+          "text": "में",
+          "spoken": "में",
+          "start": 10.02,
+          "end": 10.36,
+          "probability": 0.8775
+        },
+        {
+          "line": 3,
+          "text": "है",
+          "spoken": "है",
+          "start": 10.36,
+          "end": 10.5,
+          "probability": 0.5398
+        },
+        {
+          "line": 3,
+          "text": "झमेले।",
+          "spoken": "झमेले।",
+          "start": 10.5,
+          "end": 11.58,
+          "probability": 0.6436
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "रोज",
+          "life",
+          "में",
+          "है",
+          "झमेले।"
+        ]
+      ]
+    },
+    {
+      "line": 4,
+      "start": 12.54,
+      "end": 15.32,
+      "words": [
+        {
+          "line": 4,
+          "text": "ना",
+          "spoken": "ना",
+          "start": 12.54,
+          "end": 12.92,
+          "probability": 0.7763
+        },
+        {
+          "line": 4,
+          "text": "माही",
+          "spoken": "माही",
+          "start": 12.92,
+          "end": 13.62,
+          "probability": 0.7707
+        },
+        {
+          "line": 4,
+          "text": "ना",
+          "spoken": "ना",
+          "start": 13.62,
+          "end": 14.06,
+          "probability": 0.9479
+        },
+        {
+          "line": 4,
+          "text": "कोई",
+          "spoken": "कोई",
+          "start": 14.06,
+          "end": 14.4,
+          "probability": 0.6888
+        },
+        {
+          "line": 4,
+          "text": "राजा",
+          "spoken": "राजा",
+          "start": 14.4,
+          "end": 15.18,
+          "probability": 0.8577
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "ना",
+          "माही",
+          "ना",
+          "कोई",
+          "राजा"
+        ]
+      ]
+    },
+    {
+      "line": 5,
+      "start": 15.54,
+      "end": 18.400000000000002,
+      "words": [
+        {
+          "line": 5,
+          "text": "जिंदगी",
+          "spoken": "जिंदगी",
+          "start": 15.54,
+          "end": 16.24,
+          "probability": 0.5453
+        },
+        {
+          "line": 5,
+          "text": "ने",
+          "spoken": "ने",
+          "start": 16.24,
+          "end": 16.54,
+          "probability": 0.352
+        },
+        {
+          "line": 5,
+          "text": "बजा",
+          "spoken": "बजा",
+          "start": 16.54,
+          "end": 16.98,
+          "probability": 0.5494
+        },
+        {
+          "line": 5,
+          "text": "दिया",
+          "spoken": "दिया",
+          "start": 16.98,
+          "end": 17.46,
+          "probability": 0.5306
+        },
+        {
+          "line": 5,
+          "text": "बाजा।",
+          "spoken": "बाजा।",
+          "start": 17.46,
+          "end": 18.26,
+          "probability": 0.6596
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "जिंदगी",
+          "ने",
+          "बजा"
+        ],
+        [
+          "दिया",
+          "बाजा।"
+        ]
+      ]
+    },
+    {
+      "line": 6,
+      "start": 18.58,
+      "end": 21.240000000000002,
+      "words": [
+        {
+          "line": 6,
+          "text": "फिर",
+          "spoken": "फिर",
+          "start": 18.58,
+          "end": 18.86,
+          "probability": 0.9256
+        },
+        {
+          "line": 6,
+          "text": "भी",
+          "spoken": "भी",
+          "start": 18.86,
+          "end": 19.28,
+          "probability": 0.5713
+        },
+        {
+          "line": 6,
+          "text": "मैं",
+          "spoken": "मैं",
+          "start": 19.28,
+          "end": 19.7,
+          "probability": 0.8236
+        },
+        {
+          "line": 6,
+          "text": "हंसता",
+          "spoken": "हंसता",
+          "start": 19.7,
+          "end": 20.34,
+          "probability": 0.3353
+        },
+        {
+          "line": 6,
+          "text": "जाता।",
+          "spoken": "जाता।",
+          "start": 20.34,
+          "end": 21.1,
+          "probability": 0.8074
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "फिर",
+          "भी",
+          "मैं",
+          "हंसता",
+          "जाता।"
+        ]
+      ]
+    },
+    {
+      "line": 7,
+      "start": 21.58,
+      "end": 22.62,
+      "words": [
+        {
+          "line": 7,
+          "text": "हा",
+          "spoken": "हा",
+          "start": 21.58,
+          "end": 21.86,
+          "probability": 0.1269
+        },
+        {
+          "line": 7,
+          "text": "हा",
+          "spoken": "हा",
+          "start": 21.86,
+          "end": 22.44,
+          "probability": 0.4845
+        },
+        {
+          "line": 7,
+          "text": "हा",
+          "spoken": "हा",
+          "start": 22.44,
+          "end": 22.62,
+          "probability": 0.6969
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "हा",
+          "हा",
+          "हा"
+        ]
+      ]
+    },
+    {
+      "line": 8,
+      "start": 22.62,
+      "end": 23.8,
+      "words": [
+        {
+          "line": 7,
+          "text": "हा",
+          "spoken": "हा",
+          "start": 22.62,
+          "end": 22.92,
+          "probability": 0.7808
+        },
+        {
+          "line": 7,
+          "text": "हा",
+          "spoken": "हा",
+          "start": 22.92,
+          "end": 23.08,
+          "probability": 0.7548
+        },
+        {
+          "line": 7,
+          "text": "हा।",
+          "spoken": "हा।",
+          "start": 23.08,
+          "end": 23.66,
+          "probability": 0.609
+        }
+      ],
+      "render_font_size": 116,
+      "render_rows": [
+        [
+          "हा",
+          "हा",
+          "हा।"
+        ]
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "scene": 1,
+      "image": "01_life_game.png",
+      "start": 0,
+      "end": 3.46
+    },
+    {
+      "scene": 2,
+      "image": "02_only_me.png",
+      "start": 3.46,
+      "end": 6.4
+    },
+    {
+      "scene": 3,
+      "image": "03_same_again.png",
+      "start": 6.4,
+      "end": 9.22
+    },
+    {
+      "scene": 4,
+      "image": "04_daily_chaos.png",
+      "start": 9.22,
+      "end": 12.54
+    },
+    {
+      "scene": 5,
+      "image": "05_no_prince.png",
+      "start": 12.54,
+      "end": 15.54
+    },
+    {
+      "scene": 6,
+      "image": "06_life_band.png",
+      "start": 15.54,
+      "end": 18.58
+    },
+    {
+      "scene": 7,
+      "image": "07_still_smiling.png",
+      "start": 18.58,
+      "end": 21.58
+    },
+    {
+      "scene": 8,
+      "image": "08_big_laugh.png",
+      "start": 21.58,
+      "end": 24.711875
+    }
+  ]
+}
