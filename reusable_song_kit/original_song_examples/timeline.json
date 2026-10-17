@@ -1,0 +1,1849 @@
+{
+  "duration": 68.4408125,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "alignment": "faster-whisper small multilingual: free transcription plus DTW alignment to supplied lyrics; 20 ms alignment grid",
+  "phrases": [
+    {
+      "line": 0,
+      "start": 0.0,
+      "end": 2.36,
+      "words": [
+        {
+          "line": 0,
+          "text": "जितना",
+          "spoken": "जितना",
+          "start": 0.0,
+          "end": 0.8,
+          "probability": 0.3402
+        },
+        {
+          "line": 0,
+          "text": "तुझपे",
+          "spoken": "तुझपे",
+          "start": 0.8,
+          "end": 1.4,
+          "probability": 0.4036
+        },
+        {
+          "line": 0,
+          "text": "किया",
+          "spoken": "किया",
+          "start": 1.4,
+          "end": 1.76,
+          "probability": 0.6708
+        },
+        {
+          "line": 0,
+          "text": "खर्चा",
+          "spoken": "खर्चा",
+          "start": 1.76,
+          "end": 2.36,
+          "probability": 0.7438
+        }
+      ]
+    },
+    {
+      "line": 1,
+      "start": 2.36,
+      "end": 4.72,
+      "words": [
+        {
+          "line": 1,
+          "text": "उतने",
+          "spoken": "उतने",
+          "start": 2.36,
+          "end": 3.36,
+          "probability": 0.8127
+        },
+        {
+          "line": 1,
+          "text": "में",
+          "spoken": "में",
+          "start": 3.36,
+          "end": 3.56,
+          "probability": 0.8752
+        },
+        {
+          "line": 1,
+          "text": "Goa",
+          "spoken": "गोवा",
+          "start": 3.56,
+          "end": 3.96,
+          "probability": 0.7359
+        },
+        {
+          "line": 1,
+          "text": "हो",
+          "spoken": "हो",
+          "start": 3.96,
+          "end": 4.16,
+          "probability": 0.5258
+        },
+        {
+          "line": 1,
+          "text": "आता",
+          "spoken": "आता",
+          "start": 4.16,
+          "end": 4.72,
+          "probability": 0.8586
+        }
+      ]
+    },
+    {
+      "line": 2,
+      "start": 4.72,
+      "end": 6.96,
+      "words": [
+        {
+          "line": 2,
+          "text": "रातों",
+          "spoken": "रातों",
+          "start": 4.72,
+          "end": 5.34,
+          "probability": 0.5669
+        },
+        {
+          "line": 2,
+          "text": "को",
+          "spoken": "को",
+          "start": 5.34,
+          "end": 5.46,
+          "probability": 0.706
+        },
+        {
+          "line": 2,
+          "text": "मैं",
+          "spoken": "मैं",
+          "start": 5.46,
+          "end": 5.56,
+          "probability": 0.637
+        },
+        {
+          "line": 2,
+          "text": "सो",
+          "spoken": "सो",
+          "start": 5.56,
+          "end": 5.84,
+          "probability": 0.9274
+        },
+        {
+          "line": 2,
+          "text": "भी",
+          "spoken": "भी",
+          "start": 5.84,
+          "end": 6.08,
+          "probability": 0.7218
+        },
+        {
+          "line": 2,
+          "text": "नहीं",
+          "spoken": "नहीं",
+          "start": 6.08,
+          "end": 6.52,
+          "probability": 0.9031
+        },
+        {
+          "line": 2,
+          "text": "पाता",
+          "spoken": "पाता",
+          "start": 6.52,
+          "end": 6.96,
+          "probability": 0.8628
+        }
+      ]
+    },
+    {
+      "line": 3,
+      "start": 6.96,
+      "end": 7.98,
+      "words": [
+        {
+          "line": 3,
+          "text": "क्या",
+          "spoken": "क्या",
+          "start": 6.96,
+          "end": 7.3,
+          "probability": 0.8672
+        },
+        {
+          "line": 3,
+          "text": "करूँ",
+          "spoken": "करूँ",
+          "start": 7.3,
+          "end": 7.7,
+          "probability": 0.4555
+        },
+        {
+          "line": 3,
+          "text": "मैं",
+          "spoken": "मैं",
+          "start": 7.7,
+          "end": 7.98,
+          "probability": 0.9275
+        }
+      ]
+    },
+    {
+      "line": 4,
+      "start": 7.98,
+      "end": 9.58,
+      "words": [
+        {
+          "line": 4,
+          "text": "EMI",
+          "spoken": "ईएमआई",
+          "start": 7.98,
+          "end": 8.5,
+          "probability": 0.2217
+        },
+        {
+          "line": 4,
+          "text": "भर",
+          "spoken": "भर",
+          "start": 8.5,
+          "end": 8.72,
+          "probability": 0.7286
+        },
+        {
+          "line": 4,
+          "text": "नहीं",
+          "spoken": "नहीं",
+          "start": 8.72,
+          "end": 9.12,
+          "probability": 0.9548
+        },
+        {
+          "line": 4,
+          "text": "पाता",
+          "spoken": "पाता",
+          "start": 9.12,
+          "end": 9.58,
+          "probability": 0.9461
+        }
+      ]
+    },
+    {
+      "line": 5,
+      "start": 9.58,
+      "end": 11.84,
+      "words": [
+        {
+          "line": 5,
+          "text": "तेरे",
+          "spoken": "तेरे",
+          "start": 9.58,
+          "end": 9.96,
+          "probability": 0.6875
+        },
+        {
+          "line": 5,
+          "text": "बाबू",
+          "spoken": "बाबू",
+          "start": 9.96,
+          "end": 10.24,
+          "probability": 0.7005
+        },
+        {
+          "line": 5,
+          "text": "शोना",
+          "spoken": "शोना",
+          "start": 10.24,
+          "end": 10.64,
+          "probability": 0.7258
+        },
+        {
+          "line": 5,
+          "text": "जानू",
+          "spoken": "जानू",
+          "start": 10.64,
+          "end": 11.12,
+          "probability": 0.6252
+        },
+        {
+          "line": 5,
+          "text": "वोनू",
+          "spoken": "वोनू",
+          "start": 11.12,
+          "end": 11.84,
+          "probability": 0.4945
+        }
+      ]
+    },
+    {
+      "line": 6,
+      "start": 11.84,
+      "end": 14.18,
+      "words": [
+        {
+          "line": 6,
+          "text": "वाले",
+          "spoken": "वाले",
+          "start": 11.84,
+          "end": 12.26,
+          "probability": 0.8869
+        },
+        {
+          "line": 6,
+          "text": "मैसेज",
+          "spoken": "मैसेज",
+          "start": 12.26,
+          "end": 12.64,
+          "probability": 0.6074
+        },
+        {
+          "line": 6,
+          "text": "याद",
+          "spoken": "याद",
+          "start": 12.64,
+          "end": 13.12,
+          "probability": 0.8238
+        },
+        {
+          "line": 6,
+          "text": "आते",
+          "spoken": "आते",
+          "start": 13.12,
+          "end": 13.74,
+          "probability": 0.7715
+        },
+        {
+          "line": 6,
+          "text": "हैं",
+          "spoken": "हैं",
+          "start": 13.74,
+          "end": 14.18,
+          "probability": 0.9307
+        }
+      ]
+    },
+    {
+      "line": 7,
+      "start": 14.18,
+      "end": 16.56,
+      "words": [
+        {
+          "line": 7,
+          "text": "फिर",
+          "spoken": "फिर",
+          "start": 14.18,
+          "end": 14.34,
+          "probability": 0.5565
+        },
+        {
+          "line": 7,
+          "text": "बैंक",
+          "spoken": "बैंक",
+          "start": 14.34,
+          "end": 14.7,
+          "probability": 0.7247
+        },
+        {
+          "line": 7,
+          "text": "के",
+          "spoken": "के",
+          "start": 14.7,
+          "end": 14.86,
+          "probability": 0.4879
+        },
+        {
+          "line": 7,
+          "text": "सारे",
+          "spoken": "सारे",
+          "start": 14.86,
+          "end": 15.26,
+          "probability": 0.8196
+        },
+        {
+          "line": 7,
+          "text": "notification",
+          "spoken": "नोटिफिकेशन",
+          "start": 15.26,
+          "end": 16.56,
+          "probability": 0.5858
+        }
+      ]
+    },
+    {
+      "line": 8,
+      "start": 16.56,
+      "end": 19.22,
+      "words": [
+        {
+          "line": 8,
+          "text": "मेरे",
+          "spoken": "मेरे",
+          "start": 16.56,
+          "end": 17.0,
+          "probability": 0.847
+        },
+        {
+          "line": 8,
+          "text": "आँसू",
+          "spoken": "आँसू",
+          "start": 17.0,
+          "end": 17.48,
+          "probability": 0.517
+        },
+        {
+          "line": 8,
+          "text": "ले",
+          "spoken": "ले",
+          "start": 17.48,
+          "end": 17.84,
+          "probability": 0.781
+        },
+        {
+          "line": 8,
+          "text": "आते",
+          "spoken": "आते",
+          "start": 17.84,
+          "end": 18.4,
+          "probability": 0.9741
+        },
+        {
+          "line": 8,
+          "text": "हैं",
+          "spoken": "हैं",
+          "start": 18.4,
+          "end": 19.22,
+          "probability": 0.9533
+        }
+      ]
+    },
+    {
+      "line": 9,
+      "start": 19.22,
+      "end": 20.36,
+      "words": [
+        {
+          "line": 9,
+          "text": "मुझे",
+          "spoken": "मुझे",
+          "start": 19.22,
+          "end": 19.54,
+          "probability": 0.6364
+        },
+        {
+          "line": 9,
+          "text": "चाहिए",
+          "spoken": "चाहिए",
+          "start": 19.54,
+          "end": 20.02,
+          "probability": 0.4156
+        },
+        {
+          "line": 9,
+          "text": "थी",
+          "spoken": "थी",
+          "start": 20.02,
+          "end": 20.18,
+          "probability": 0.446
+        },
+        {
+          "line": 9,
+          "text": "तू",
+          "spoken": "तू",
+          "start": 20.18,
+          "end": 20.36,
+          "probability": 0.704
+        }
+      ]
+    },
+    {
+      "line": 10,
+      "start": 20.36,
+      "end": 21.58,
+      "words": [
+        {
+          "line": 10,
+          "text": "पर",
+          "spoken": "पर",
+          "start": 20.36,
+          "end": 20.64,
+          "probability": 0.431
+        },
+        {
+          "line": 10,
+          "text": "खर्चीली",
+          "spoken": "खर्चीली",
+          "start": 20.64,
+          "end": 21.14,
+          "probability": 0.4971
+        },
+        {
+          "line": 10,
+          "text": "थी",
+          "spoken": "थी",
+          "start": 21.14,
+          "end": 21.32,
+          "probability": 0.7242
+        },
+        {
+          "line": 10,
+          "text": "तू",
+          "spoken": "तू",
+          "start": 21.32,
+          "end": 21.58,
+          "probability": 0.9255
+        }
+      ]
+    },
+    {
+      "line": 11,
+      "start": 21.58,
+      "end": 22.7,
+      "words": [
+        {
+          "line": 11,
+          "text": "ज़रा",
+          "spoken": "ज़रा",
+          "start": 21.58,
+          "end": 21.88,
+          "probability": 0.6631
+        },
+        {
+          "line": 11,
+          "text": "सच",
+          "spoken": "सच",
+          "start": 21.88,
+          "end": 22.14,
+          "probability": 0.7557
+        },
+        {
+          "line": 11,
+          "text": "तो",
+          "spoken": "तो",
+          "start": 22.14,
+          "end": 22.4,
+          "probability": 0.8196
+        },
+        {
+          "line": 11,
+          "text": "बता",
+          "spoken": "बता",
+          "start": 22.4,
+          "end": 22.7,
+          "probability": 0.8545
+        }
+      ]
+    },
+    {
+      "line": 12,
+      "start": 22.7,
+      "end": 23.96,
+      "words": [
+        {
+          "line": 12,
+          "text": "इतनी",
+          "spoken": "इतनी",
+          "start": 22.7,
+          "end": 23.08,
+          "probability": 0.3771
+        },
+        {
+          "line": 12,
+          "text": "hungry",
+          "spoken": "हंग्री",
+          "start": 23.08,
+          "end": 23.48,
+          "probability": 0.7383
+        },
+        {
+          "line": 12,
+          "text": "थी",
+          "spoken": "थी",
+          "start": 23.48,
+          "end": 23.7,
+          "probability": 0.6286
+        },
+        {
+          "line": 12,
+          "text": "क्यों",
+          "spoken": "क्यों",
+          "start": 23.7,
+          "end": 23.96,
+          "probability": 0.61
+        }
+      ]
+    },
+    {
+      "line": 13,
+      "start": 23.96,
+      "end": 25.18,
+      "words": [
+        {
+          "line": 13,
+          "text": "मेरी",
+          "spoken": "मेरी",
+          "start": 23.96,
+          "end": 24.24,
+          "probability": 0.8408
+        },
+        {
+          "line": 13,
+          "text": "pizza",
+          "spoken": "पिज़्ज़ा",
+          "start": 24.24,
+          "end": 24.6,
+          "probability": 0.4044
+        },
+        {
+          "line": 13,
+          "text": "मेरी",
+          "spoken": "मेरी",
+          "start": 24.6,
+          "end": 24.82,
+          "probability": 0.913
+        },
+        {
+          "line": 13,
+          "text": "fries",
+          "spoken": "फ्राइज़",
+          "start": 24.82,
+          "end": 25.18,
+          "probability": 0.5946
+        }
+      ]
+    },
+    {
+      "line": 14,
+      "start": 25.18,
+      "end": 26.2,
+      "words": [
+        {
+          "line": 14,
+          "text": "मेरी",
+          "spoken": "मेरी",
+          "start": 25.18,
+          "end": 25.42,
+          "probability": 0.8922
+        },
+        {
+          "line": 14,
+          "text": "cold",
+          "spoken": "कोल्ड",
+          "start": 25.42,
+          "end": 25.76,
+          "probability": 0.3727
+        },
+        {
+          "line": 14,
+          "text": "coffee",
+          "spoken": "कॉफ़ी",
+          "start": 25.76,
+          "end": 26.02,
+          "probability": 0.3072
+        },
+        {
+          "line": 14,
+          "text": "तू",
+          "spoken": "तू",
+          "start": 26.02,
+          "end": 26.2,
+          "probability": 0.9001
+        }
+      ]
+    },
+    {
+      "line": 15,
+      "start": 26.2,
+      "end": 27.76,
+      "words": [
+        {
+          "line": 15,
+          "text": "पर",
+          "spoken": "पर",
+          "start": 26.2,
+          "end": 26.3,
+          "probability": 0.5518
+        },
+        {
+          "line": 15,
+          "text": "bill",
+          "spoken": "बिल",
+          "start": 26.3,
+          "end": 26.6,
+          "probability": 0.6033
+        },
+        {
+          "line": 15,
+          "text": "आते",
+          "spoken": "आते",
+          "start": 26.6,
+          "end": 26.96,
+          "probability": 0.6476
+        },
+        {
+          "line": 15,
+          "text": "ही",
+          "spoken": "ही",
+          "start": 26.96,
+          "end": 27.16,
+          "probability": 0.878
+        },
+        {
+          "line": 15,
+          "text": "बोलती",
+          "spoken": "बोलती",
+          "start": 27.16,
+          "end": 27.62,
+          "probability": 0.6192
+        },
+        {
+          "line": 15,
+          "text": "थी",
+          "spoken": "थी",
+          "start": 27.62,
+          "end": 27.76,
+          "probability": 0.6546
+        }
+      ]
+    },
+    {
+      "line": 16,
+      "start": 27.76,
+      "end": 29.18,
+      "words": [
+        {
+          "line": 16,
+          "text": "Baby",
+          "spoken": "बेबी",
+          "start": 27.76,
+          "end": 28.04,
+          "probability": 0.5118
+        },
+        {
+          "line": 16,
+          "text": "pay",
+          "spoken": "पे",
+          "start": 28.04,
+          "end": 28.18,
+          "probability": 0.9443
+        },
+        {
+          "line": 16,
+          "text": "कर",
+          "spoken": "कर",
+          "start": 28.18,
+          "end": 28.34,
+          "probability": 0.4816
+        },
+        {
+          "line": 16,
+          "text": "दो",
+          "spoken": "दो",
+          "start": 28.34,
+          "end": 28.48,
+          "probability": 0.6449
+        },
+        {
+          "line": 16,
+          "text": "ना",
+          "spoken": "ना",
+          "start": 28.48,
+          "end": 28.64,
+          "probability": 0.5107
+        },
+        {
+          "line": 16,
+          "text": "तू",
+          "spoken": "तू",
+          "start": 28.64,
+          "end": 29.18,
+          "probability": 0.886
+        }
+      ]
+    },
+    {
+      "line": 17,
+      "start": 29.18,
+      "end": 30.9,
+      "words": [
+        {
+          "line": 17,
+          "text": "कहती",
+          "spoken": "कहती",
+          "start": 29.18,
+          "end": 29.92,
+          "probability": 0.3924
+        },
+        {
+          "line": 17,
+          "text": "थी",
+          "spoken": "थी",
+          "start": 29.92,
+          "end": 30.08,
+          "probability": 0.6663
+        },
+        {
+          "line": 17,
+          "text": "प्यार",
+          "spoken": "प्यार",
+          "start": 30.08,
+          "end": 30.44,
+          "probability": 0.7047
+        },
+        {
+          "line": 17,
+          "text": "है",
+          "spoken": "है",
+          "start": 30.44,
+          "end": 30.56,
+          "probability": 0.6861
+        },
+        {
+          "line": 17,
+          "text": "true",
+          "spoken": "ट्रू",
+          "start": 30.56,
+          "end": 30.9,
+          "probability": 0.3719
+        }
+      ]
+    },
+    {
+      "line": 18,
+      "start": 30.9,
+      "end": 32.08,
+      "words": [
+        {
+          "line": 18,
+          "text": "बस",
+          "spoken": "बस",
+          "start": 30.9,
+          "end": 31.16,
+          "probability": 0.7437
+        },
+        {
+          "line": 18,
+          "text": "मैं",
+          "spoken": "मैं",
+          "start": 31.16,
+          "end": 31.6,
+          "probability": 0.7311
+        },
+        {
+          "line": 18,
+          "text": "और",
+          "spoken": "और",
+          "start": 31.6,
+          "end": 31.78,
+          "probability": 0.7934
+        },
+        {
+          "line": 18,
+          "text": "तू",
+          "spoken": "तू",
+          "start": 31.78,
+          "end": 32.08,
+          "probability": 0.9076
+        }
+      ]
+    },
+    {
+      "line": 19,
+      "start": 32.08,
+      "end": 33.14,
+      "words": [
+        {
+          "line": 19,
+          "text": "फिर",
+          "spoken": "फिर",
+          "start": 32.08,
+          "end": 32.26,
+          "probability": 0.8603
+        },
+        {
+          "line": 19,
+          "text": "Zomato",
+          "spoken": "ज़ोमैटो",
+          "start": 32.26,
+          "end": 32.76,
+          "probability": 0.33
+        },
+        {
+          "line": 19,
+          "text": "वाला",
+          "spoken": "वाला",
+          "start": 32.76,
+          "end": 32.98,
+          "probability": 0.6812
+        },
+        {
+          "line": 19,
+          "text": "भी",
+          "spoken": "भी",
+          "start": 32.98,
+          "end": 33.14,
+          "probability": 0.6143
+        }
+      ]
+    },
+    {
+      "line": 20,
+      "start": 33.14,
+      "end": 34.44,
+      "words": [
+        {
+          "line": 20,
+          "text": "पहचानने",
+          "spoken": "पहचानने",
+          "start": 33.14,
+          "end": 33.62,
+          "probability": 0.4518
+        },
+        {
+          "line": 20,
+          "text": "लगा",
+          "spoken": "लगा",
+          "start": 33.62,
+          "end": 33.76,
+          "probability": 0.2969
+        },
+        {
+          "line": 20,
+          "text": "था",
+          "spoken": "था",
+          "start": 33.76,
+          "end": 33.9,
+          "probability": 0.3422
+        },
+        {
+          "line": 20,
+          "text": "मुझे",
+          "spoken": "मुझे",
+          "start": 33.9,
+          "end": 34.16,
+          "probability": 0.8807
+        },
+        {
+          "line": 20,
+          "text": "क्यों",
+          "spoken": "क्यों",
+          "start": 34.16,
+          "end": 34.44,
+          "probability": 0.7776
+        }
+      ]
+    },
+    {
+      "line": 21,
+      "start": 34.44,
+      "end": 35.7,
+      "words": [
+        {
+          "line": 21,
+          "text": "अब",
+          "spoken": "अब",
+          "start": 34.44,
+          "end": 34.68,
+          "probability": 0.6165
+        },
+        {
+          "line": 21,
+          "text": "हो",
+          "spoken": "हो",
+          "start": 34.68,
+          "end": 34.86,
+          "probability": 0.5733
+        },
+        {
+          "line": 21,
+          "text": "गए",
+          "spoken": "गए",
+          "start": 34.86,
+          "end": 35.32,
+          "probability": 0.2846
+        },
+        {
+          "line": 21,
+          "text": "अलग",
+          "spoken": "अलग",
+          "start": 35.32,
+          "end": 35.7,
+          "probability": 0.656
+        }
+      ]
+    },
+    {
+      "line": 22,
+      "start": 35.7,
+      "end": 36.74,
+      "words": [
+        {
+          "line": 22,
+          "text": "चल",
+          "spoken": "चल",
+          "start": 35.7,
+          "end": 36.16,
+          "probability": 0.6674
+        },
+        {
+          "line": 22,
+          "text": "कोई",
+          "spoken": "कोई",
+          "start": 36.16,
+          "end": 36.48,
+          "probability": 0.6902
+        },
+        {
+          "line": 22,
+          "text": "ना",
+          "spoken": "ना",
+          "start": 36.48,
+          "end": 36.74,
+          "probability": 0.8697
+        }
+      ]
+    },
+    {
+      "line": 23,
+      "start": 36.74,
+      "end": 38.14,
+      "words": [
+        {
+          "line": 23,
+          "text": "मेरे",
+          "spoken": "मेरे",
+          "start": 36.74,
+          "end": 37.08,
+          "probability": 0.8473
+        },
+        {
+          "line": 23,
+          "text": "Netflix",
+          "spoken": "नेटफ्लिक्स",
+          "start": 37.08,
+          "end": 37.54,
+          "probability": 0.5294
+        },
+        {
+          "line": 23,
+          "text": "का",
+          "spoken": "का",
+          "start": 37.54,
+          "end": 37.68,
+          "probability": 0.8652
+        },
+        {
+          "line": 23,
+          "text": "password",
+          "spoken": "पासवर्ड",
+          "start": 37.68,
+          "end": 38.14,
+          "probability": 0.5071
+        }
+      ]
+    },
+    {
+      "line": 24,
+      "start": 38.14,
+      "end": 39.12,
+      "words": [
+        {
+          "line": 24,
+          "text": "अब",
+          "spoken": "अब",
+          "start": 38.14,
+          "end": 38.3,
+          "probability": 0.0739
+        },
+        {
+          "line": 24,
+          "text": "माँगना",
+          "spoken": "माँगना",
+          "start": 38.3,
+          "end": 38.96,
+          "probability": 0.3974
+        },
+        {
+          "line": 24,
+          "text": "ना",
+          "spoken": "ना",
+          "start": 38.96,
+          "end": 39.12,
+          "probability": 0.5901
+        }
+      ]
+    },
+    {
+      "line": 25,
+      "start": 39.12,
+      "end": 40.26,
+      "words": [
+        {
+          "line": 25,
+          "text": "तेरा",
+          "spoken": "तेरा",
+          "start": 39.12,
+          "end": 39.42,
+          "probability": 0.7279
+        },
+        {
+          "line": 25,
+          "text": "makeup",
+          "spoken": "मेकअप",
+          "start": 39.42,
+          "end": 39.9,
+          "probability": 0.4721
+        },
+        {
+          "line": 25,
+          "text": "गया",
+          "spoken": "गया",
+          "start": 39.9,
+          "end": 40.26,
+          "probability": 0.7838
+        }
+      ]
+    },
+    {
+      "line": 26,
+      "start": 40.26,
+      "end": 41.42,
+      "words": [
+        {
+          "line": 26,
+          "text": "तेरा",
+          "spoken": "तेरा",
+          "start": 40.26,
+          "end": 40.56,
+          "probability": 0.849
+        },
+        {
+          "line": 26,
+          "text": "shopping",
+          "spoken": "शॉपिंग",
+          "start": 40.56,
+          "end": 41.14,
+          "probability": 0.599
+        },
+        {
+          "line": 26,
+          "text": "गया",
+          "spoken": "गया",
+          "start": 41.14,
+          "end": 41.42,
+          "probability": 0.7197
+        }
+      ]
+    },
+    {
+      "line": 27,
+      "start": 41.42,
+      "end": 42.94,
+      "words": [
+        {
+          "line": 27,
+          "text": "मेरा",
+          "spoken": "मेरा",
+          "start": 41.42,
+          "end": 41.76,
+          "probability": 0.9001
+        },
+        {
+          "line": 27,
+          "text": "बेचारा",
+          "spoken": "बेचारा",
+          "start": 41.76,
+          "end": 42.32,
+          "probability": 0.6036
+        },
+        {
+          "line": 27,
+          "text": "credit",
+          "spoken": "क्रेडिट",
+          "start": 42.32,
+          "end": 42.66,
+          "probability": 0.5995
+        },
+        {
+          "line": 27,
+          "text": "card",
+          "spoken": "कार्ड",
+          "start": 42.66,
+          "end": 42.94,
+          "probability": 0.3593
+        }
+      ]
+    },
+    {
+      "line": 28,
+      "start": 42.94,
+      "end": 43.9,
+      "words": [
+        {
+          "line": 28,
+          "text": "फिर",
+          "spoken": "फिर",
+          "start": 42.94,
+          "end": 43.06,
+          "probability": 0.8571
+        },
+        {
+          "line": 28,
+          "text": "से",
+          "spoken": "से",
+          "start": 43.06,
+          "end": 43.2,
+          "probability": 0.2791
+        },
+        {
+          "line": 28,
+          "text": "ज़िंदा",
+          "spoken": "ज़िंदा",
+          "start": 43.2,
+          "end": 43.52,
+          "probability": 0.3789
+        },
+        {
+          "line": 28,
+          "text": "हो",
+          "spoken": "हो",
+          "start": 43.52,
+          "end": 43.68,
+          "probability": 0.9251
+        },
+        {
+          "line": 28,
+          "text": "गया",
+          "spoken": "गया",
+          "start": 43.68,
+          "end": 43.9,
+          "probability": 0.7051
+        }
+      ]
+    },
+    {
+      "line": 29,
+      "start": 43.9,
+      "end": 45.22,
+      "words": [
+        {
+          "line": 29,
+          "text": "अब",
+          "spoken": "अब",
+          "start": 43.9,
+          "end": 44.04,
+          "probability": 0.6781
+        },
+        {
+          "line": 29,
+          "text": "रात",
+          "spoken": "रात",
+          "start": 44.04,
+          "end": 44.42,
+          "probability": 0.7927
+        },
+        {
+          "line": 29,
+          "text": "को",
+          "spoken": "को",
+          "start": 44.42,
+          "end": 44.64,
+          "probability": 0.9298
+        },
+        {
+          "line": 29,
+          "text": "चैन",
+          "spoken": "चैन",
+          "start": 44.64,
+          "end": 45.0,
+          "probability": 0.5711
+        },
+        {
+          "line": 29,
+          "text": "से",
+          "spoken": "से",
+          "start": 45.0,
+          "end": 45.22,
+          "probability": 0.7237
+        }
+      ]
+    },
+    {
+      "line": 30,
+      "start": 45.22,
+      "end": 46.04,
+      "words": [
+        {
+          "line": 30,
+          "text": "सोता",
+          "spoken": "सोता",
+          "start": 45.22,
+          "end": 45.62,
+          "probability": 0.8402
+        },
+        {
+          "line": 30,
+          "text": "हूँ",
+          "spoken": "हूँ",
+          "start": 45.62,
+          "end": 45.84,
+          "probability": 0.6301
+        },
+        {
+          "line": 30,
+          "text": "मैं",
+          "spoken": "मैं",
+          "start": 45.84,
+          "end": 46.04,
+          "probability": 0.8913
+        }
+      ]
+    },
+    {
+      "line": 31,
+      "start": 46.04,
+      "end": 47.56,
+      "words": [
+        {
+          "line": 31,
+          "text": "Swiggy",
+          "spoken": "स्विगी",
+          "start": 46.04,
+          "end": 46.42,
+          "probability": 0.7484
+        },
+        {
+          "line": 31,
+          "text": "का",
+          "spoken": "का",
+          "start": 46.42,
+          "end": 46.66,
+          "probability": 0.8864
+        },
+        {
+          "line": 31,
+          "text": "bill",
+          "spoken": "बिल",
+          "start": 46.66,
+          "end": 46.96,
+          "probability": 0.5462
+        },
+        {
+          "line": 31,
+          "text": "देखके",
+          "spoken": "देखके",
+          "start": 46.96,
+          "end": 47.56,
+          "probability": 0.6977
+        }
+      ]
+    },
+    {
+      "line": 32,
+      "start": 47.56,
+      "end": 48.46,
+      "words": [
+        {
+          "line": 32,
+          "text": "रोता",
+          "spoken": "रोता",
+          "start": 47.56,
+          "end": 47.88,
+          "probability": 0.8955
+        },
+        {
+          "line": 32,
+          "text": "नहीं",
+          "spoken": "नहीं",
+          "start": 47.88,
+          "end": 48.2,
+          "probability": 0.8944
+        },
+        {
+          "line": 32,
+          "text": "मैं",
+          "spoken": "मैं",
+          "start": 48.2,
+          "end": 48.46,
+          "probability": 0.9362
+        }
+      ]
+    },
+    {
+      "line": 33,
+      "start": 48.46,
+      "end": 49.22,
+      "words": [
+        {
+          "line": 33,
+          "text": "तू",
+          "spoken": "तू",
+          "start": 48.46,
+          "end": 48.6,
+          "probability": 0.4479
+        },
+        {
+          "line": 33,
+          "text": "भी",
+          "spoken": "भी",
+          "start": 48.6,
+          "end": 48.72,
+          "probability": 0.5822
+        },
+        {
+          "line": 33,
+          "text": "खुश",
+          "spoken": "खुश",
+          "start": 48.72,
+          "end": 48.98,
+          "probability": 0.7068
+        },
+        {
+          "line": 33,
+          "text": "रह",
+          "spoken": "रह",
+          "start": 48.98,
+          "end": 49.22,
+          "probability": 0.7314
+        }
+      ]
+    },
+    {
+      "line": 34,
+      "start": 49.22,
+      "end": 50.5,
+      "words": [
+        {
+          "line": 34,
+          "text": "मैं",
+          "spoken": "मैं",
+          "start": 49.22,
+          "end": 49.74,
+          "probability": 0.4998
+        },
+        {
+          "line": 34,
+          "text": "भी",
+          "spoken": "भी",
+          "start": 49.74,
+          "end": 49.9,
+          "probability": 0.8325
+        },
+        {
+          "line": 34,
+          "text": "खुश",
+          "spoken": "खुश",
+          "start": 49.9,
+          "end": 50.2,
+          "probability": 0.8785
+        },
+        {
+          "line": 34,
+          "text": "हूँ",
+          "spoken": "हूँ",
+          "start": 50.2,
+          "end": 50.5,
+          "probability": 0.7793
+        }
+      ]
+    },
+    {
+      "line": 35,
+      "start": 50.5,
+      "end": 52.2,
+      "words": [
+        {
+          "line": 35,
+          "text": "बस",
+          "spoken": "बस",
+          "start": 50.5,
+          "end": 50.96,
+          "probability": 0.5976
+        },
+        {
+          "line": 35,
+          "text": "एक",
+          "spoken": "एक",
+          "start": 50.96,
+          "end": 51.1,
+          "probability": 0.5851
+        },
+        {
+          "line": 35,
+          "text": "बात",
+          "spoken": "बात",
+          "start": 51.1,
+          "end": 51.38,
+          "probability": 0.801
+        },
+        {
+          "line": 35,
+          "text": "का",
+          "spoken": "का",
+          "start": 51.38,
+          "end": 51.64,
+          "probability": 0.3733
+        },
+        {
+          "line": 35,
+          "text": "दुख",
+          "spoken": "दुख",
+          "start": 51.64,
+          "end": 51.9,
+          "probability": 0.576
+        },
+        {
+          "line": 35,
+          "text": "है",
+          "spoken": "है",
+          "start": 51.9,
+          "end": 52.2,
+          "probability": 0.9276
+        }
+      ]
+    },
+    {
+      "line": 36,
+      "start": 52.2,
+      "end": 54.54,
+      "words": [
+        {
+          "line": 36,
+          "text": "मेरी",
+          "spoken": "मेरी",
+          "start": 52.2,
+          "end": 52.82,
+          "probability": 0.7849
+        },
+        {
+          "line": 36,
+          "text": "hoodie",
+          "spoken": "हूडी",
+          "start": 52.82,
+          "end": 53.1,
+          "probability": 0.6701
+        },
+        {
+          "line": 36,
+          "text": "वापस",
+          "spoken": "वापस",
+          "start": 53.1,
+          "end": 53.4,
+          "probability": 0.7849
+        },
+        {
+          "line": 36,
+          "text": "कर",
+          "spoken": "कर",
+          "start": 53.4,
+          "end": 53.64,
+          "probability": 0.8487
+        },
+        {
+          "line": 36,
+          "text": "दे",
+          "spoken": "दे",
+          "start": 53.64,
+          "end": 54.2,
+          "probability": 0.9055
+        }
+      ]
+    },
+    {
+      "line": 37,
+      "start": 54.54,
+      "end": 57.22,
+      "words": [
+        {
+          "line": 37,
+          "text": "बाकी",
+          "spoken": "बाकी",
+          "start": 54.54,
+          "end": 55.12,
+          "probability": 0.6043
+        },
+        {
+          "line": 37,
+          "text": "सब",
+          "spoken": "सब",
+          "start": 55.12,
+          "end": 55.22,
+          "probability": 0.1398
+        },
+        {
+          "line": 37,
+          "text": "माफ़",
+          "spoken": "माफ़",
+          "start": 55.22,
+          "end": 55.64,
+          "probability": 0.5254
+        },
+        {
+          "line": 37,
+          "text": "है",
+          "spoken": "है",
+          "start": 55.64,
+          "end": 55.78,
+          "probability": 0.4228
+        },
+        {
+          "line": 37,
+          "text": "तू",
+          "spoken": "तू",
+          "start": 55.78,
+          "end": 57.02,
+          "probability": 0.8595
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "scene": 1,
+      "image": "01_empty_pockets.png",
+      "start": 0,
+      "lyric_line": 0,
+      "end": 2.36
+    },
+    {
+      "scene": 2,
+      "image": "02_goa_dream.png",
+      "start": 2.36,
+      "lyric_line": 1,
+      "end": 4.72
+    },
+    {
+      "scene": 3,
+      "image": "03_sleepless_night.png",
+      "start": 4.72,
+      "lyric_line": 2,
+      "end": 6.96
+    },
+    {
+      "scene": 4,
+      "image": "04_huge_bill.png",
+      "start": 6.96,
+      "lyric_line": 3,
+      "end": 9.58
+    },
+    {
+      "scene": 5,
+      "image": "05_lovey_messages.png",
+      "start": 9.58,
+      "lyric_line": 5,
+      "end": 11.84
+    },
+    {
+      "scene": 6,
+      "image": "06_old_messages.png",
+      "start": 11.84,
+      "lyric_line": 6,
+      "end": 14.18
+    },
+    {
+      "scene": 7,
+      "image": "07_bank_alerts.png",
+      "start": 14.18,
+      "lyric_line": 7,
+      "end": 16.56
+    },
+    {
+      "scene": 8,
+      "image": "08_waterfall_tears.png",
+      "start": 16.56,
+      "lyric_line": 8,
+      "end": 19.22
+    },
+    {
+      "scene": 9,
+      "image": "09_rose_romance.png",
+      "start": 19.22,
+      "lyric_line": 9,
+      "end": 20.36
+    },
+    {
+      "scene": 10,
+      "image": "10_shopping_mountain.png",
+      "start": 20.36,
+      "lyric_line": 10,
+      "end": 21.58
+    },
+    {
+      "scene": 11,
+      "image": "11_endless_food.png",
+      "start": 21.58,
+      "lyric_line": 11,
+      "end": 23.96
+    },
+    {
+      "scene": 12,
+      "image": "12_last_fry.png",
+      "start": 23.96,
+      "lyric_line": 13,
+      "end": 25.18
+    },
+    {
+      "scene": 13,
+      "image": "13_coffee_theft.png",
+      "start": 25.18,
+      "lyric_line": 14,
+      "end": 26.2
+    },
+    {
+      "scene": 14,
+      "image": "14_bill_arrives.png",
+      "start": 26.2,
+      "lyric_line": 15,
+      "end": 27.76
+    },
+    {
+      "scene": 15,
+      "image": "15_please_pay.png",
+      "start": 27.76,
+      "lyric_line": 16,
+      "end": 29.18
+    },
+    {
+      "scene": 16,
+      "image": "16_couple_selfie.png",
+      "start": 29.18,
+      "lyric_line": 17,
+      "end": 30.9
+    },
+    {
+      "scene": 17,
+      "image": "17_candlelight.png",
+      "start": 30.9,
+      "lyric_line": 18,
+      "end": 32.08
+    },
+    {
+      "scene": 18,
+      "image": "18_delivery_friend.png",
+      "start": 32.08,
+      "lyric_line": 19,
+      "end": 33.14
+    },
+    {
+      "scene": 19,
+      "image": "19_delivery_handshake.png",
+      "start": 33.14,
+      "lyric_line": 20,
+      "end": 34.44
+    },
+    {
+      "scene": 20,
+      "image": "20_relief.png",
+      "start": 34.44,
+      "lyric_line": 21,
+      "end": 36.74
+    },
+    {
+      "scene": 21,
+      "image": "21_streaming_locked.png",
+      "start": 36.74,
+      "lyric_line": 23,
+      "end": 38.14
+    },
+    {
+      "scene": 22,
+      "image": "22_password_victory.png",
+      "start": 38.14,
+      "lyric_line": 24,
+      "end": 39.12
+    },
+    {
+      "scene": 23,
+      "image": "23_empty_shelf.png",
+      "start": 39.12,
+      "lyric_line": 25,
+      "end": 40.26
+    },
+    {
+      "scene": 24,
+      "image": "24_wardrobe_space.png",
+      "start": 40.26,
+      "lyric_line": 26,
+      "end": 41.42
+    },
+    {
+      "scene": 25,
+      "image": "25_card_hospital.png",
+      "start": 41.42,
+      "lyric_line": 27,
+      "end": 42.94
+    },
+    {
+      "scene": 26,
+      "image": "26_card_reborn.png",
+      "start": 42.94,
+      "lyric_line": 28,
+      "end": 43.9
+    },
+    {
+      "scene": 27,
+      "image": "27_peaceful_sleep.png",
+      "start": 43.9,
+      "lyric_line": 29,
+      "end": 46.04
+    },
+    {
+      "scene": 28,
+      "image": "28_simple_meal.png",
+      "start": 46.04,
+      "lyric_line": 31,
+      "end": 48.46
+    },
+    {
+      "scene": 29,
+      "image": "29_both_happy.png",
+      "start": 48.46,
+      "lyric_line": 33,
+      "end": 50.5
+    },
+    {
+      "scene": 30,
+      "image": "30_hoodie_realization.png",
+      "start": 50.5,
+      "lyric_line": 35,
+      "end": 52.2
+    },
+    {
+      "scene": 31,
+      "image": "31_found_hoodie.png",
+      "start": 52.2,
+      "lyric_line": 36,
+      "end": 54.54
+    },
+    {
+      "scene": 32,
+      "image": "32_hoodie_plea.png",
+      "start": 54.54,
+      "lyric_line": 37,
+      "end": 58.2
+    },
+    {
+      "scene": 31,
+      "image": "31_found_hoodie.png",
+      "start": 58.2,
+      "outro": true,
+      "end": 60.6
+    },
+    {
+      "scene": 26,
+      "image": "26_card_reborn.png",
+      "start": 60.6,
+      "outro": true,
+      "end": 63.0
+    },
+    {
+      "scene": 20,
+      "image": "20_relief.png",
+      "start": 63.0,
+      "outro": true,
+      "end": 65.4
+    },
+    {
+      "scene": 32,
+      "image": "32_hoodie_plea.png",
+      "start": 65.4,
+      "outro": true,
+      "end": 68.4408125
+    }
+  ]
+}
