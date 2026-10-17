@@ -1,0 +1,47 @@
+{
+  "video": "C:\\Users\\Saurabh\\Documents\\video_song\\songs\\neend_ka_jadoo\\final_video\\neend_ka_jadoo_1080x1920.mp4",
+  "width": 1080,
+  "height": 1920,
+  "frame_rate": "30/1",
+  "decoded_frames": 707,
+  "audio_duration": "23.562000",
+  "video_duration": "23.566667",
+  "scenes": 6,
+  "timeline_shots": 6,
+  "lyric_phrases": 8,
+  "timed_words": 24,
+  "unexpected_black_frames": [],
+  "audio_alignment_checks": [
+    {
+      "time_seconds": 1,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999962164046377
+    },
+    {
+      "time_seconds": 5,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999929418411103
+    },
+    {
+      "time_seconds": 10,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999923537622437
+    },
+    {
+      "time_seconds": 16,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.999996487176695
+    },
+    {
+      "time_seconds": 22,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999984187281049
+    }
+  ],
+  "note": "Word timestamps are Whisper model estimates, aligned to supplied lyrics; they are not a human listening certification."
+}

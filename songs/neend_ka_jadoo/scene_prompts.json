@@ -1,0 +1,38 @@
+[
+  {
+    "scene": 1,
+    "file": "01_sleepy_yawn.png",
+    "prompt": "Use case: illustration-story. Create one portrait 9:16 full-frame illustration for a cute Hindi song reel. Reference image controls exact BOY identity and flat 2D chibi style: tousled brown hair, round glasses, navy hoodie, beige trousers, huge head tiny body, blush cheeks, warm brown outlines, soft pastel shading. Boy is sole human. Cozy peach bedroom, wooden bed, mint blanket, lavender pillow, blue curtains. Main face/action in upper 70%; lower quarter simple space for lyrics added later. No text, letters, watermark or collage. Scene: Boy sitting on edge of bed, stretching and yawning with comically sleepy eyelids, clutching lavender pillow. Warm evening lamp and little moon through window.",
+    "tool": "built-in imagegen"
+  },
+  {
+    "scene": 2,
+    "file": "02_alarm_ignored.png",
+    "prompt": "Use case: illustration-story. Create one portrait 9:16 full-frame illustration for a cute Hindi song reel. Reference image controls exact BOY identity and flat 2D chibi style: tousled brown hair, round glasses, navy hoodie, beige trousers, huge head tiny body, blush cheeks, warm brown outlines, soft pastel shading. Boy is sole human. Cozy peach bedroom, wooden bed, mint blanket, lavender pillow, blue curtains. Main face/action in upper 70%; lower quarter simple space for lyrics added later. No text, letters, watermark or collage. Scene: Boy blissfully asleep tucked in mint blanket on wooden bed, head on lavender pillow; his hand lazily silences a ringing peach alarm clock on bedside table. Morning sunshine through blue curtains. Cute comedic sleep devotion.",
+    "tool": "built-in imagegen"
+  },
+  {
+    "scene": 3,
+    "file": "03_daytime_doze.png",
+    "prompt": "Use case: illustration-story. Create one portrait 9:16 full-frame illustration for a cute Hindi song reel. Reference image controls exact BOY identity and flat 2D chibi style: tousled brown hair, round glasses, navy hoodie, beige trousers, huge head tiny body, blush cheeks, warm brown outlines, soft pastel shading. Boy is sole human. Cozy peach bedroom, wooden bed, mint blanket, lavender pillow, blue curtains. Main face/action in upper 70%; lower quarter simple space for lyrics added later. No text, letters, watermark or collage. Scene: Boy sitting in cozy armchair beside bedroom window in bright daylight, trying to read an open blank book but nodding off, lavender pillow tucked behind head. Tiny sleepy cloud shapes, delighted sleepy smile. Second reference establishes bedroom and rendering style.",
+    "tool": "built-in imagegen"
+  },
+  {
+    "scene": 4,
+    "file": "04_pillow_love.png",
+    "prompt": "Use case: illustration-story. Create one portrait 9:16 full-frame illustration for a cute Hindi song reel. Reference image controls exact BOY identity and flat 2D chibi style: tousled brown hair, round glasses, navy hoodie, beige trousers, huge head tiny body, blush cheeks, warm brown outlines, soft pastel shading. Boy is sole human. Cozy peach bedroom, wooden bed, mint blanket, lavender pillow, blue curtains. Main face/action in upper 70%; lower quarter simple space for lyrics added later. No text, letters, watermark or collage. Scene: Boy cuddling oversized lavender pillow tightly with both arms, cheek squished adorably against it, eyes closed and blissful smile. Sitting on mint-covered bed. A few small pink hearts float above pillow. Second reference establishes bedroom and rendering style.",
+    "tool": "built-in imagegen"
+  },
+  {
+    "scene": 5,
+    "file": "05_sleep_magic.png",
+    "prompt": "Use case: illustration-story. Create one portrait 9:16 full-frame illustration for a cute Hindi song reel. Reference image controls exact BOY identity and flat 2D chibi style: tousled brown hair, round glasses, navy hoodie, beige trousers, huge head tiny body, blush cheeks, warm brown outlines, soft pastel shading. Boy is sole human. Cozy peach bedroom, wooden bed, mint blanket, lavender pillow, blue curtains. Main face/action in upper 70%; lower quarter simple space for lyrics added later. No text, letters, watermark or collage. Scene: Dream fantasy: boy peacefully sleeping on giant lavender pillow floating among pastel blue clouds and golden stars, crescent moon above, swirling magical gold stardust around pillow. Navy hoodie beige trousers, glasses resting safely on a small cloud beside him. Dreamy pastel purple sky. Second reference establishes bedroom and rendering style.",
+    "tool": "built-in imagegen"
+  },
+  {
+    "scene": 6,
+    "file": "06_peaceful_sleep.png",
+    "prompt": "Use case: illustration-story. Create one portrait 9:16 full-frame illustration for a cute Hindi song reel. Reference image controls exact BOY identity and flat 2D chibi style: tousled brown hair, round glasses, navy hoodie, beige trousers, huge head tiny body, blush cheeks, warm brown outlines, soft pastel shading. Boy is sole human. Cozy peach bedroom, wooden bed, mint blanket, lavender pillow, blue curtains. Main face/action in upper 70%; lower quarter simple space for lyrics added later. No text, letters, watermark or collage. Scene: Close-up cozy ending: boy sleeping with rosy cheek nestled into lavender pillow, joyful tiny smile, mint blanket tucked up to shoulders, round glasses neatly on wooden bedside table. Moonlight blue curtains, small warm lamp, peach bedroom. Delicate dream stars overhead. Second reference establishes bedroom and rendering style.",
+    "tool": "built-in imagegen"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "line": 0,
+    "text": "सोने",
+    "spoken": "सोने",
+    "start": 0.0,
+    "end": 0.88,
+    "probability": 0.5656
+  },
+  {
+    "line": 0,
+    "text": "लगा",
+    "spoken": "लगा",
+    "start": 0.88,
+    "end": 1.42,
+    "probability": 0.8942
+  },
+  {
+    "line": 0,
+    "text": "हूँ",
+    "spoken": "हूँ",
+    "start": 1.42,
+    "end": 2.56,
+    "probability": 0.6618
+  },
+  {
+    "line": 0,
+    "text": "पहले",
+    "spoken": "पहले",
+    "start": 2.56,
+    "end": 3.7,
+    "probability": 0.8232
+  },
+  {
+    "line": 0,
+    "text": "से",
+    "spoken": "से",
+    "start": 3.7,
+    "end": 3.96,
+    "probability": 0.9331
+  },
+  {
+    "line": 0,
+    "text": "ज़्यादा",
+    "spoken": "ज़्यादा",
+    "start": 3.96,
+    "end": 5.44,
+    "probability": 0.6259
+  },
+  {
+    "line": 1,
+    "text": "पहले",
+    "spoken": "पहले",
+    "start": 5.44,
+    "end": 6.62,
+    "probability": 0.8188
+  },
+  {
+    "line": 1,
+    "text": "से",
+    "spoken": "से",
+    "start": 6.62,
+    "end": 6.86,
+    "probability": 0.9825
+  },
+  {
+    "line": 1,
+    "text": "ज़्यादा",
+    "spoken": "ज़्यादा",
+    "start": 6.86,
+    "end": 7.76,
+    "probability": 0.9079
+  },
+  {
+    "line": 1,
+    "text": "नींद",
+    "spoken": "नींद",
+    "start": 7.76,
+    "end": 8.28,
+    "probability": 0.5729
+  },
+  {
+    "line": 1,
+    "text": "आने",
+    "spoken": "आने",
+    "start": 8.28,
+    "end": 9.48,
+    "probability": 0.5217
+  },
+  {
+    "line": 1,
+    "text": "लगी।",
+    "spoken": "लगी।",
+    "start": 9.48,
+    "end": 12.14,
+    "probability": 0.7896
+  },
+  {
+    "line": 2,
+    "text": "मैं",
+    "spoken": "मैं",
+    "start": 12.14,
+    "end": 13.02,
+    "probability": 0.8587
+  },
+  {
+    "line": 2,
+    "text": "मेरा",
+    "spoken": "मेरा",
+    "start": 13.02,
+    "end": 13.76,
+    "probability": 0.6924
+  },
+  {
+    "line": 2,
+    "text": "सर",
+    "spoken": "सर",
+    "start": 13.76,
+    "end": 14.38,
+    "probability": 0.7281
+  },
+  {
+    "line": 2,
+    "text": "और",
+    "spoken": "और",
+    "start": 14.38,
+    "end": 15.3,
+    "probability": 0.6177
+  },
+  {
+    "line": 2,
+    "text": "यह",
+    "spoken": "यह",
+    "start": 15.3,
+    "end": 15.96,
+    "probability": 0.6016
+  },
+  {
+    "line": 2,
+    "text": "तकिया",
+    "spoken": "तकिया",
+    "start": 15.96,
+    "end": 17.56,
+    "probability": 0.7217
+  },
+  {
+    "line": 3,
+    "text": "नींद",
+    "spoken": "नींद",
+    "start": 17.56,
+    "end": 19.44,
+    "probability": 0.9219
+  },
+  {
+    "line": 3,
+    "text": "ने",
+    "spoken": "ने",
+    "start": 19.44,
+    "end": 19.82,
+    "probability": 0.5285
+  },
+  {
+    "line": 3,
+    "text": "कैसा",
+    "spoken": "कैसा",
+    "start": 19.82,
+    "end": 21.18,
+    "probability": 0.586
+  },
+  {
+    "line": 3,
+    "text": "यह",
+    "spoken": "यह",
+    "start": 21.18,
+    "end": 21.42,
+    "probability": 0.42
+  },
+  {
+    "line": 3,
+    "text": "जादू",
+    "spoken": "जादू",
+    "start": 21.42,
+    "end": 22.48,
+    "probability": 0.7293
+  },
+  {
+    "line": 3,
+    "text": "किया।",
+    "spoken": "किया।",
+    "start": 22.48,
+    "end": 23.34,
+    "probability": 0.84
+  }
+]

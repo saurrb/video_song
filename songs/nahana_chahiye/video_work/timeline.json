@@ -1,0 +1,260 @@
+{
+  "title": "नहाना चाहिए",
+  "artist": "",
+  "duration": 15.0465625,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "alignment": "Whisper small Hindi transcription and canonical-word DTW; independent onset corrections for pauses",
+  "phrases": [
+    {
+      "line": 0,
+      "start": 0.0,
+      "end": 3.3600000000000003,
+      "words": [
+        {
+          "line": 0,
+          "text": "हौसले",
+          "spoken": "हौसले",
+          "start": 0.0,
+          "end": 1.46,
+          "probability": 0.3923
+        },
+        {
+          "line": 0,
+          "text": "को",
+          "spoken": "को",
+          "start": 1.46,
+          "end": 1.82,
+          "probability": 0.9538
+        },
+        {
+          "line": 0,
+          "text": "आजमाना",
+          "spoken": "आजमाना",
+          "start": 1.82,
+          "end": 2.74,
+          "probability": 0.8006
+        },
+        {
+          "line": 0,
+          "text": "चाहिए",
+          "spoken": "चाहिए",
+          "start": 2.74,
+          "end": 3.2,
+          "probability": 0.6604
+        }
+      ]
+    },
+    {
+      "line": 1,
+      "start": 4.52,
+      "end": 7.08,
+      "words": [
+        {
+          "line": 1,
+          "text": "मुश्किलों",
+          "spoken": "मुश्किलों",
+          "start": 4.52,
+          "end": 5.28,
+          "probability": 0.6442
+        },
+        {
+          "line": 1,
+          "text": "में",
+          "spoken": "में",
+          "start": 5.28,
+          "end": 5.5,
+          "probability": 0.9291
+        },
+        {
+          "line": 1,
+          "text": "मुस्कुराना",
+          "spoken": "मुस्कुराना",
+          "start": 5.5,
+          "end": 6.26,
+          "probability": 0.7847
+        },
+        {
+          "line": 1,
+          "text": "चाहिए",
+          "spoken": "चाहिए",
+          "start": 6.26,
+          "end": 6.92,
+          "probability": 0.9748
+        }
+      ]
+    },
+    {
+      "line": 2,
+      "start": 7.7,
+      "end": 8.7,
+      "words": [
+        {
+          "line": 2,
+          "text": "पर",
+          "spoken": "पर",
+          "start": 7.7,
+          "end": 7.8,
+          "probability": 0.3563
+        },
+        {
+          "line": 2,
+          "text": "खुजली",
+          "spoken": "खुजली",
+          "start": 7.8,
+          "end": 8.28,
+          "probability": 0.7355
+        },
+        {
+          "line": 2,
+          "text": "है",
+          "spoken": "है",
+          "start": 8.28,
+          "end": 8.4,
+          "probability": 0.2635
+        },
+        {
+          "line": 2,
+          "text": "जब",
+          "spoken": "जब",
+          "start": 8.4,
+          "end": 8.7,
+          "probability": 0.786
+        }
+      ]
+    },
+    {
+      "line": 3,
+      "start": 8.7,
+      "end": 10.36,
+      "words": [
+        {
+          "line": 2,
+          "text": "7",
+          "spoken": "सात",
+          "start": 8.7,
+          "end": 9.12,
+          "probability": 0.6789
+        },
+        {
+          "line": 2,
+          "text": "दिन",
+          "spoken": "दिन",
+          "start": 9.12,
+          "end": 9.4,
+          "probability": 0.7928
+        },
+        {
+          "line": 2,
+          "text": "तक",
+          "spoken": "तक",
+          "start": 9.4,
+          "end": 9.62,
+          "probability": 0.8255
+        },
+        {
+          "line": 2,
+          "text": "ना",
+          "spoken": "ना",
+          "start": 9.62,
+          "end": 9.86,
+          "probability": 0.8996
+        },
+        {
+          "line": 2,
+          "text": "रुके",
+          "spoken": "रुके",
+          "start": 9.86,
+          "end": 10.2,
+          "probability": 0.5766
+        }
+      ]
+    },
+    {
+      "line": 4,
+      "start": 11.68,
+      "end": 14.72,
+      "words": [
+        {
+          "line": 3,
+          "text": "आदमी",
+          "spoken": "आदमी",
+          "start": 11.68,
+          "end": 12.88,
+          "probability": 0.4783
+        },
+        {
+          "line": 3,
+          "text": "को",
+          "spoken": "को",
+          "start": 12.88,
+          "end": 13.14,
+          "probability": 0.97
+        },
+        {
+          "line": 3,
+          "text": "तब",
+          "spoken": "तब",
+          "start": 13.14,
+          "end": 13.4,
+          "probability": 0.7238
+        },
+        {
+          "line": 3,
+          "text": "नहाना",
+          "spoken": "नहाना",
+          "start": 13.4,
+          "end": 14.06,
+          "probability": 0.6292
+        },
+        {
+          "line": 3,
+          "text": "चाहिए",
+          "spoken": "चाहिए",
+          "start": 14.06,
+          "end": 14.56,
+          "probability": 0.9556
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "scene": 1,
+      "image": "01_courage.png",
+      "start": 0,
+      "end": 4.52
+    },
+    {
+      "scene": 2,
+      "image": "02_smile.png",
+      "start": 4.52,
+      "end": 7.7
+    },
+    {
+      "scene": 3,
+      "image": "03_itch.png",
+      "start": 7.7,
+      "end": 8.7
+    },
+    {
+      "scene": 4,
+      "image": "04_seven_days.png",
+      "start": 8.7,
+      "end": 13.4
+    },
+    {
+      "scene": 5,
+      "image": "05_bath_reveal.png",
+      "start": 13.4,
+      "end": 14.3
+    },
+    {
+      "scene": 6,
+      "image": "06_fresh_finish.png",
+      "start": 14.3,
+      "end": 15.0465625
+    }
+  ]
+}
