@@ -1,0 +1,47 @@
+{
+  "video": "C:\\Users\\Saurabh\\Documents\\video_song\\songs\\meetha_bhi_khana_hai\\final_video\\meetha_bhi_khana_hai_1080x1920.mp4",
+  "width": 1080,
+  "height": 1920,
+  "frame_rate": "30/1",
+  "decoded_frames": 812,
+  "audio_duration": "27.063000",
+  "video_duration": "27.066667",
+  "scenes": 12,
+  "timeline_shots": 12,
+  "lyric_phrases": 15,
+  "timed_words": 61,
+  "unexpected_black_frames": [],
+  "audio_alignment_checks": [
+    {
+      "time_seconds": 1,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999543162501383
+    },
+    {
+      "time_seconds": 6,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999435513133003
+    },
+    {
+      "time_seconds": 12,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999432441381751
+    },
+    {
+      "time_seconds": 19,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9997747352641897
+    },
+    {
+      "time_seconds": 25,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999811917648256
+    }
+  ],
+  "note": "Word timestamps are Whisper model estimates, aligned to supplied lyrics; they are not a human listening certification."
+}
