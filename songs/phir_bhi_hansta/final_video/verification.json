@@ -1,0 +1,47 @@
+{
+  "video": "C:\\Users\\Saurabh\\Documents\\video_song\\songs\\phir_bhi_hansta\\final_video\\phir_bhi_hansta_1080x1920.mp4",
+  "width": 1080,
+  "height": 1920,
+  "frame_rate": "30/1",
+  "decoded_frames": 741,
+  "audio_duration": "24.712000",
+  "video_duration": "24.700000",
+  "scenes": 8,
+  "timeline_shots": 8,
+  "lyric_phrases": 9,
+  "timed_words": 42,
+  "unexpected_black_frames": [],
+  "audio_alignment_checks": [
+    {
+      "time_seconds": 1,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999941571374845
+    },
+    {
+      "time_seconds": 6,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999967060798166
+    },
+    {
+      "time_seconds": 12,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999983969578802
+    },
+    {
+      "time_seconds": 18,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999966953405006
+    },
+    {
+      "time_seconds": 23,
+      "sample_lag": 0,
+      "lag_ms": 0.0,
+      "correlation": 0.9999947284653927
+    }
+  ],
+  "note": "Word timestamps are Whisper model estimates, aligned to supplied lyrics; they are not a human listening certification."
+}

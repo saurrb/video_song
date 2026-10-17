@@ -1,0 +1,176 @@
+[
+  {
+    "scene": 1,
+    "name": "noon",
+    "file": "portrait_images/01_noon.png",
+    "prompt": "Use case: illustration-story. Create one finished portrait 9:16 image for Hansi Ki Dhun Hindi comedy song. Match attached reference exact cute chibi boy/girl identities and soft flat 2D cartoon style, warm brown outlines, pastel colors, blush cheeks. Boy tousled brown hair round glasses navy hoodie beige trousers. Girl only when described: long wavy brown hair peach side bow peach sweater lilac skirt. Big heads tiny bodies. Consistent cozy Indian home. Compose key faces/action in upper 72 percent; lower quarter simple background for lyrics. No text, no lettering, no watermark, no panels. Scene: Sleepy boy sits yawning in his wooden bed with teal blanket and cream pillow. Sun shines strongly through bedroom window; round clock hands both point at 12. Glasses slightly crooked, bed hair. Cozy pastel peach bedroom. Just boy.",
+    "tool": "built-in image_gen",
+    "references": [
+      "references/couple_reference.png"
+    ]
+  },
+  {
+    "scene": 2,
+    "name": "lion",
+    "file": "portrait_images/02_lion.png",
+    "prompt": "Use case: illustration-story. Create one finished portrait 9:16 image for Hansi Ki Dhun Hindi comedy song. Match attached reference exact cute chibi boy/girl identities and soft flat 2D cartoon style, warm brown outlines, pastel colors, blush cheeks. Boy tousled brown hair round glasses navy hoodie beige trousers. Girl only when described: long wavy brown hair peach side bow peach sweater lilac skirt. Big heads tiny bodies. Consistent cozy Indian home. Compose key faces/action in upper 72 percent; lower quarter simple background for lyrics. No text, no lettering, no watermark, no panels. Scene: Boy in navy hoodie stands on his wooden bed flexing tiny arms with exaggerated confidence, imaginary cute golden lion mane aura behind his head. Teal blanket, peach bedroom. Funny small hero enormous ego. Reference 1 gives original character identities; reference 2 gives established mummy and bedroom design. Preserve both.",
+    "tool": "built-in image_gen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/03_mummy_calls.png"
+    ]
+  },
+  {
+    "scene": 3,
+    "name": "mummy_calls",
+    "file": "portrait_images/03_mummy_calls.png",
+    "prompt": "Use case: illustration-story. Create one finished portrait 9:16 image for Hansi Ki Dhun Hindi comedy song. Match attached reference exact cute chibi boy/girl identities and soft flat 2D cartoon style, warm brown outlines, pastel colors, blush cheeks. Boy tousled brown hair round glasses navy hoodie beige trousers. Girl only when described: long wavy brown hair peach side bow peach sweater lilac skirt. Big heads tiny bodies. Consistent cozy Indian home. Compose key faces/action in upper 72 percent; lower quarter simple background for lyrics. No text, no lettering, no watermark, no panels. Scene: Mummy calling from bedroom doorway, one hand cupped by her mouth, eyebrow raised, boy in background on bed suddenly startled. Mummy is a sweet round-faced Indian middle-aged cartoon mother, brown hair in bun, small red bindi, mint-green sari with mustard-gold border, peach blouse, round cheeks. No rolling pin yet. Teal bed, peach bedroom.",
+    "tool": "built-in image_gen",
+    "references": [
+      "references/couple_reference.png"
+    ]
+  },
+  {
+    "scene": 4,
+    "name": "kitten",
+    "file": "portrait_images/04_kitten.png",
+    "prompt": "Use case: illustration-story. Create one finished portrait 9:16 image for Hansi Ki Dhun Hindi comedy song. Match attached reference exact cute chibi boy/girl identities and soft flat 2D cartoon style, warm brown outlines, pastel colors, blush cheeks. Boy tousled brown hair round glasses navy hoodie beige trousers. Girl only when described: long wavy brown hair peach side bow peach sweater lilac skirt. Big heads tiny bodies. Consistent cozy Indian home. Compose key faces/action in upper 72 percent; lower quarter simple background for lyrics. No text, no lettering, no watermark, no panels. Scene: Same boy shuffles obediently toward doorway with hunched shoulders, hands together and bashful kitten expression, imaginary cat ears and tail represented as soft doodles. Mother mint-green sari brown bun red bindi smiles knowingly at doorway. Cute funny contrast, not actual transformation. Reference 1 gives original character identities; reference 2 gives established mummy and bedroom design. Preserve both.",
+    "tool": "built-in image_gen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/03_mummy_calls.png"
+    ]
+  },
+  {
+    "scene": 5,
+    "name": "warrior",
+    "file": "portrait_images/05_warrior.png",
+    "prompt": "Use case: illustration-story. Create one finished portrait 9:16 image for Hansi Ki Dhun Hindi comedy song. Match attached reference exact cute chibi boy/girl identities and soft flat 2D cartoon style, warm brown outlines, pastel colors, blush cheeks. Boy tousled brown hair round glasses navy hoodie beige trousers. Girl only when described: long wavy brown hair peach side bow peach sweater lilac skirt. Big heads tiny bodies. Consistent cozy Indian home. Compose key faces/action in upper 72 percent; lower quarter simple background for lyrics. No text, no lettering, no watermark, no panels. Scene: Boy poses as a brave pretend warrior in living room, navy hoodie, beige trousers, cardboard crown and saucepan lid shield, rolled newspaper as toy sword. Heroic confident expression, golden pretend spotlight. No real weapons. Reference 1 gives original character identities; reference 2 gives established mummy and bedroom design. Preserve both.",
+    "tool": "built-in image_gen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/03_mummy_calls.png"
+    ]
+  },
+  {
+    "scene": 6,
+    "name": "shivering",
+    "file": "portrait_images/06_shivering.png",
+    "prompt": "Use case: illustration-story. Create one finished portrait 9:16 image for Hansi Ki Dhun Hindi comedy song. Match attached reference exact cute chibi boy/girl identities and soft flat 2D cartoon style, warm brown outlines, pastel colors, blush cheeks. Boy tousled brown hair round glasses navy hoodie beige trousers. Girl only when described: long wavy brown hair peach side bow peach sweater lilac skirt. Big heads tiny bodies. Consistent cozy Indian home. Compose key faces/action in upper 72 percent; lower quarter simple background for lyrics. No text, no lettering, no watermark, no panels. Scene: Boy steps just outside front door, trembling with knees knocking, clutching saucepan lid like shield. Tiny friendly sparrow nearby startles him. Cozy house entrance, soft daylight, motion lines, wide fearful eyes. Reference 1 gives original character identities; reference 2 gives established mummy and bedroom design. Preserve both.",
+    "tool": "built-in image_gen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/03_mummy_calls.png"
+    ]
+  },
+  {
+    "scene": 7,
+    "name": "mosquito",
+    "file": "portrait_images/07_mosquito.png",
+    "prompt": "Use case: illustration-story. Create one finished portrait 9:16 image for Hansi Ki Dhun Hindi comedy song. Match attached reference exact cute chibi boy/girl identities and soft flat 2D cartoon style, warm brown outlines, pastel colors, blush cheeks. Boy tousled brown hair round glasses navy hoodie beige trousers. Girl only when described: long wavy brown hair peach side bow peach sweater lilac skirt. Big heads tiny bodies. Consistent cozy Indian home. Compose key faces/action in upper 72 percent; lower quarter simple background for lyrics. No text, no lettering, no watermark, no panels. Scene: Boy bursts into huge comic waterfall tears because one tiny cute mosquito hovers beside his arm. Magnifying thought bubble of a tiny harmless bite, navy hoodie beige trousers, round glasses. Bedroom backdrop. Reference 1 gives original character identities; reference 2 gives established mummy and bedroom design. Preserve both.",
+    "tool": "built-in image_gen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/03_mummy_calls.png"
+    ]
+  },
+  {
+    "scene": 8,
+    "name": "slippers",
+    "file": "portrait_images/08_slippers.png",
+    "prompt": "Use case: illustration-story. Create one finished portrait 9:16 image for Hansi Ki Dhun Hindi comedy song. Match attached reference exact cute chibi boy/girl identities and soft flat 2D cartoon style, warm brown outlines, pastel colors, blush cheeks. Boy tousled brown hair round glasses navy hoodie beige trousers. Girl only when described: long wavy brown hair peach side bow peach sweater lilac skirt. Big heads tiny bodies. Consistent cozy Indian home. Compose key faces/action in upper 72 percent; lower quarter simple background for lyrics. No text, no lettering, no watermark, no panels. Scene: Boy frantically searches for a slipper, kneeling looking under couch while two slippers sit obviously on shelf right behind him. Hair messy, frantic round eyes, funny action lines, warm home. Reference 1 gives original character identities; reference 2 gives established mummy and bedroom design. Preserve both.",
+    "tool": "built-in image_gen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/03_mummy_calls.png"
+    ]
+  },
+  {
+    "scene": 9,
+    "name": "pillow_pop",
+    "file": "portrait_images/09_pillow_pop.png",
+    "prompt": "Use case: illustration-story. Create one finished portrait 9:16 image for Hansi Ki Dhun Hindi comedy song. Match attached reference exact cute chibi boy/girl identities and soft flat 2D cartoon style, warm brown outlines, pastel colors, blush cheeks. Boy tousled brown hair round glasses navy hoodie beige trousers. Girl only when described: long wavy brown hair peach side bow peach sweater lilac skirt. Big heads tiny bodies. Consistent cozy Indian home. Compose key faces/action in upper 72 percent; lower quarter simple background for lyrics. No text, no lettering, no watermark, no panels. Scene: Girl from reference, peach bow sweater lilac skirt, mischievously makes a harmless magical comic confetti POP burst ABOVE pillow while boy sleeps unfazed in bed. Exaggerated little starburst and paper streamers, no flames or actual explosives. Teal blanket cream pillow, peach room. Reference 1 gives original character identities; reference 2 gives established mummy and bedroom design. Preserve both.",
+    "tool": "built-in image_gen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/03_mummy_calls.png"
+    ]
+  },
+  {
+    "scene": 10,
+    "name": "drum",
+    "file": "portrait_images/10_drum.png",
+    "prompt": "Use case: illustration-story. Create one finished portrait 9:16 image for Hansi Ki Dhun Hindi comedy song. Match attached reference exact cute chibi boy/girl identities and soft flat 2D cartoon style, warm brown outlines, pastel colors, blush cheeks. Boy tousled brown hair round glasses navy hoodie beige trousers. Girl only when described: long wavy brown hair peach side bow peach sweater lilac skirt. Big heads tiny bodies. Consistent cozy Indian home. Compose key faces/action in upper 72 percent; lower quarter simple background for lyrics. No text, no lettering, no watermark, no panels. Scene: Girl peach bow sweater lilac skirt plays big colorful dhol beside boy's bed with two soft mallets; boy sleeps through it blissfully beneath teal blanket, pillow bounces slightly in cartoon vibration. Big musical notes. Reference 1 gives original character identities; reference 2 gives established mummy and bedroom design. Preserve both.",
+    "tool": "built-in image_gen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/03_mummy_calls.png"
+    ]
+  },
+  {
+    "scene": 11,
+    "name": "still_asleep",
+    "file": "portrait_images/11_still_asleep.png",
+    "prompt": "Use case: illustration-story. Create one finished portrait 9:16 image for Hansi Ki Dhun Hindi comedy song. Match attached reference exact cute chibi boy/girl identities and soft flat 2D cartoon style, warm brown outlines, pastel colors, blush cheeks. Boy tousled brown hair round glasses navy hoodie beige trousers. Girl only when described: long wavy brown hair peach side bow peach sweater lilac skirt. Big heads tiny bodies. Consistent cozy Indian home. Compose key faces/action in upper 72 percent; lower quarter simple background for lyrics. No text, no lettering, no watermark, no panels. Scene: Close mid-shot of boy sleeping deeply smiling under teal blanket, ear covered by pillow; a loud alarm clock and drum sit ignored at bedside. Girl with peach bow watches incredulously, hands on hips. Reference 1 gives original character identities; reference 2 gives established mummy and bedroom design. Preserve both.",
+    "tool": "built-in image_gen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/03_mummy_calls.png"
+    ]
+  },
+  {
+    "scene": 12,
+    "name": "report",
+    "file": "portrait_images/12_report.png",
+    "prompt": "Use case: illustration-story. Create one finished portrait 9:16 image for Hansi Ki Dhun Hindi comedy song. Match attached reference exact cute chibi boy/girl identities and soft flat 2D cartoon style, warm brown outlines, pastel colors, blush cheeks. Boy tousled brown hair round glasses navy hoodie beige trousers. Girl only when described: long wavy brown hair peach side bow peach sweater lilac skirt. Big heads tiny bodies. Consistent cozy Indian home. Compose key faces/action in upper 72 percent; lower quarter simple background for lyrics. No text, no lettering, no watermark, no panels. Scene: Girl peach bow sweater lilac skirt whispers the sleepy boy's secret to mummy in mint-green sari mustard border peach blouse brown bun red bindi. Girl points toward bedroom, mummy gives knowing raised eyebrow. Boy sleeping in distant background. Reference 1 gives original character identities; reference 2 gives established mummy and bedroom design. Preserve both.",
+    "tool": "built-in image_gen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/03_mummy_calls.png"
+    ]
+  },
+  {
+    "scene": 13,
+    "name": "rolling_pin",
+    "file": "portrait_images/13_rolling_pin.png",
+    "prompt": "Use case: illustration-story. Create one finished portrait 9:16 image for Hansi Ki Dhun Hindi comedy song. Match attached reference exact cute chibi boy/girl identities and soft flat 2D cartoon style, warm brown outlines, pastel colors, blush cheeks. Boy tousled brown hair round glasses navy hoodie beige trousers. Girl only when described: long wavy brown hair peach side bow peach sweater lilac skirt. Big heads tiny bodies. Consistent cozy Indian home. Compose key faces/action in upper 72 percent; lower quarter simple background for lyrics. No text, no lettering, no watermark, no panels. Scene: Mummy mint-green sari mustard border peach blouse brown bun red bindi stands triumphantly at bedroom doorway holding wooden rolling pin upright like an amusing kitchen prop, other hand on hip. Stern-but-loving comic eyebrow. Boy on bed sits bolt upright shocked. No hitting. Reference 1 gives original character identities; reference 2 gives established mummy and bedroom design. Preserve both.",
+    "tool": "built-in image_gen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/03_mummy_calls.png"
+    ]
+  },
+  {
+    "scene": 14,
+    "name": "blanket_escape",
+    "file": "portrait_images/14_blanket_escape.png",
+    "prompt": "Use case: illustration-story. Create one finished portrait 9:16 image for Hansi Ki Dhun Hindi comedy song. Match attached reference exact cute chibi boy/girl identities and soft flat 2D cartoon style, warm brown outlines, pastel colors, blush cheeks. Boy tousled brown hair round glasses navy hoodie beige trousers. Girl only when described: long wavy brown hair peach side bow peach sweater lilac skirt. Big heads tiny bodies. Consistent cozy Indian home. Compose key faces/action in upper 72 percent; lower quarter simple background for lyrics. No text, no lettering, no watermark, no panels. Scene: Boy in navy hoodie beige trousers round glasses dashes through peach bedroom clutching long teal bedsheet which trails behind like superhero cape; slippers flying aside. Mummy in mint-green sari at doorway looks amused holding rolling pin at her side. Playful chase no contact. Reference 1 gives original character identities; reference 2 gives established mummy and bedroom design. Preserve both.",
+    "tool": "built-in image_gen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/03_mummy_calls.png"
+    ]
+  },
+  {
+    "scene": 15,
+    "name": "world_warrior",
+    "file": "portrait_images/15_world_warrior.png",
+    "prompt": "Use case: illustration-story. Create one finished portrait 9:16 image for Hansi Ki Dhun Hindi comedy song. Match attached reference exact cute chibi boy/girl identities and soft flat 2D cartoon style, warm brown outlines, pastel colors, blush cheeks. Boy tousled brown hair round glasses navy hoodie beige trousers. Girl only when described: long wavy brown hair peach side bow peach sweater lilac skirt. Big heads tiny bodies. Consistent cozy Indian home. Compose key faces/action in upper 72 percent; lower quarter simple background for lyrics. No text, no lettering, no watermark, no panels. Scene: Exaggerated imaginary heroic poster of same tiny boy standing proudly on globe-shaped cushion, cardboard crown saucepan shield teal bedsheet cape, big golden halo, ridiculous confident hero pose. No text. Set up ironic final punchline. Reference 1 gives original character identities; reference 2 gives established mummy and bedroom design. Preserve both.",
+    "tool": "built-in image_gen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/03_mummy_calls.png"
+    ]
+  },
+  {
+    "scene": 16,
+    "name": "under_bed",
+    "file": "portrait_images/16_under_bed.png",
+    "prompt": "Use case: illustration-story. Create one finished portrait 9:16 image for Hansi Ki Dhun Hindi comedy song. Match attached reference exact cute chibi boy/girl identities and soft flat 2D cartoon style, warm brown outlines, pastel colors, blush cheeks. Boy tousled brown hair round glasses navy hoodie beige trousers. Girl only when described: long wavy brown hair peach side bow peach sweater lilac skirt. Big heads tiny bodies. Consistent cozy Indian home. Compose key faces/action in upper 72 percent; lower quarter simple background for lyrics. No text, no lettering, no watermark, no panels. Scene: Final punchline: same boy navy hoodie round glasses beige trousers curled beneath elevated wooden bed clutching teal bedsheet, huge sheepish eyes and shy smile peeking out. In upper scene mummy mint-green sari brown bun red bindi kneels looking under bed amused, rolling pin resting harmlessly on bedside table, girl peach bow giggles nearby. Keep under-bed boy clearly visible near middle canvas, not bottom. Cozy peach bedroom. Reference 1 gives original character identities; reference 2 gives established mummy and bedroom design. Preserve both.",
+    "tool": "built-in image_gen",
+    "references": [
+      "references/couple_reference.png",
+      "portrait_images/03_mummy_calls.png"
+    ]
+  }
+]
